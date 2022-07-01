@@ -1,0 +1,21 @@
+[2022-07-01 15:22:46,706] {processor.py:153} INFO - Started process (PID=18865) to work on /root/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-07-01 15:22:46,707] {processor.py:641} INFO - Processing file /root/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py for tasks to queue
+[2022-07-01 15:22:46,707] {logging_mixin.py:115} INFO - [2022-07-01 15:22:46,707] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-07-01 15:22:46,716] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_virtualenv']) retrieved from /root/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-07-01 15:22:46,740] {logging_mixin.py:115} INFO - [2022-07-01 15:22:46,740] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-01 15:22:46,749] {logging_mixin.py:115} INFO - [2022-07-01 15:22:46,748] {dag.py:2915} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_virtualenv to None, run_after=None
+[2022-07-01 15:22:46,765] {processor.py:161} INFO - Processing /root/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py took 0.060 seconds
+[2022-07-01 15:24:04,386] {processor.py:153} INFO - Started process (PID=19660) to work on /root/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-07-01 15:24:04,387] {processor.py:641} INFO - Processing file /root/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py for tasks to queue
+[2022-07-01 15:24:04,387] {logging_mixin.py:115} INFO - [2022-07-01 15:24:04,387] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-07-01 15:24:04,397] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_virtualenv']) retrieved from /root/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-07-01 15:24:04,420] {logging_mixin.py:115} INFO - [2022-07-01 15:24:04,420] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-01 15:24:04,430] {logging_mixin.py:115} INFO - [2022-07-01 15:24:04,430] {dag.py:2915} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_virtualenv to None, run_after=None
+[2022-07-01 15:24:04,447] {processor.py:161} INFO - Processing /root/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py took 0.062 seconds
+[2022-07-01 15:25:38,539] {processor.py:153} INFO - Started process (PID=20625) to work on /root/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-07-01 15:25:38,542] {processor.py:641} INFO - Processing file /root/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py for tasks to queue
+[2022-07-01 15:25:38,542] {logging_mixin.py:115} INFO - [2022-07-01 15:25:38,542] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-07-01 15:25:38,551] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_virtualenv']) retrieved from /root/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-07-01 15:25:38,574] {logging_mixin.py:115} INFO - [2022-07-01 15:25:38,574] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-07-01 15:25:38,583] {logging_mixin.py:115} INFO - [2022-07-01 15:25:38,583] {dag.py:2915} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_virtualenv to None, run_after=None
+[2022-07-01 15:25:38,602] {processor.py:161} INFO - Processing /root/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py took 0.065 seconds

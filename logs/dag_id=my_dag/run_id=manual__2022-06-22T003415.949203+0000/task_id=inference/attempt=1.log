@@ -1,0 +1,49 @@
+[2022-06-22 02:34:17,996] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: my_dag.inference manual__2022-06-22T00:34:15.949203+00:00 [queued]>
+[2022-06-22 02:34:18,002] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: my_dag.inference manual__2022-06-22T00:34:15.949203+00:00 [queued]>
+[2022-06-22 02:34:18,002] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-22 02:34:18,003] {taskinstance.py:1357} INFO - Starting attempt 1 of 1
+[2022-06-22 02:34:18,003] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-22 02:34:18,029] {taskinstance.py:1377} INFO - Executing <Task(PythonOperator): inference> on 2022-06-22 00:34:15.949203+00:00
+[2022-06-22 02:34:18,034] {standard_task_runner.py:52} INFO - Started process 11340 to run task
+[2022-06-22 02:34:18,037] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'my_dag', 'inference', 'manual__2022-06-22T00:34:15.949203+00:00', '--job-id', '28', '--raw', '--subdir', 'DAGS_FOLDER/CarPriceDag.py', '--cfg-path', '/tmp/tmpejt1h871', '--error-file', '/tmp/tmpjn43wzyg']
+[2022-06-22 02:34:18,038] {standard_task_runner.py:80} INFO - Job 28: Subtask inference
+[2022-06-22 02:34:18,090] {task_command.py:369} INFO - Running <TaskInstance: my_dag.inference manual__2022-06-22T00:34:15.949203+00:00 [running]> on host DESKTOP-9B44JSS.localdomain
+[2022-06-22 02:34:18,164] {taskinstance.py:1569} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=my_dag
+AIRFLOW_CTX_TASK_ID=inference
+AIRFLOW_CTX_EXECUTION_DATE=2022-06-22T00:34:15.949203+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-06-22T00:34:15.949203+00:00
+[2022-06-22 02:34:19,677] {taskinstance.py:1889} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/root/airflow_env/lib/python3.8/site-packages/requests/models.py", line 910, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "/usr/lib/python3.8/json/__init__.py", line 357, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.8/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.8/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/root/airflow_env/lib/python3.8/site-packages/airflow/operators/python.py", line 171, in execute
+    return_value = self.execute_callable()
+  File "/root/airflow_env/lib/python3.8/site-packages/airflow/operators/python.py", line 189, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/root/airflow/dags/CarPriceDag.py", line 27, in fetchdata
+    process(dfjson, 'https://dora-carprice-fapi.herokuapp.com/prediction/')
+  File "/root/airflow/dags/CarPriceDag.py", line 20, in process
+    tab=pd.read_json(r.json())
+  File "/root/airflow_env/lib/python3.8/site-packages/requests/models.py", line 917, in json
+    raise RequestsJSONDecodeError(e.msg, e.doc, e.pos)
+requests.exceptions.JSONDecodeError: [Errno Expecting value] Internal Server Error: 0
+[2022-06-22 02:34:19,684] {taskinstance.py:1395} INFO - Marking task as FAILED. dag_id=my_dag, task_id=inference, execution_date=20220622T003415, start_date=20220622T003417, end_date=20220622T003419
+[2022-06-22 02:34:19,713] {standard_task_runner.py:92} ERROR - Failed to execute job 28 for task inference ([Errno Expecting value] Internal Server Error: 0; 11340)
+[2022-06-22 02:34:19,743] {local_task_job.py:156} INFO - Task exited with return code 1
+[2022-06-22 02:34:19,769] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

@@ -1,0 +1,1446 @@
+[2022-06-28 17:43:52,299] {processor.py:153} INFO - Started process (PID=9611) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:43:52,302] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 17:43:52,305] {logging_mixin.py:115} INFO - [2022-06-28 17:43:52,305] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:43:53,185] {processor.py:651} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:43:53,210] {logging_mixin.py:115} INFO - [2022-06-28 17:43:53,210] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 17:43:53,241] {logging_mixin.py:115} INFO - [2022-06-28 17:43:53,241] {dag.py:2915} INFO - Setting next_dagrun for my_dag to 2022-06-27T00:00:00+00:00, run_after=2022-06-28T00:00:00+00:00
+[2022-06-28 17:43:53,275] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.998 seconds
+[2022-06-28 17:44:35,637] {processor.py:153} INFO - Started process (PID=9700) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:44:35,638] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 17:44:35,639] {logging_mixin.py:115} INFO - [2022-06-28 17:44:35,639] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:44:35,951] {processor.py:651} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:44:35,963] {logging_mixin.py:115} INFO - [2022-06-28 17:44:35,963] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 17:44:35,975] {logging_mixin.py:115} INFO - [2022-06-28 17:44:35,975] {dag.py:2915} INFO - Setting next_dagrun for my_dag to 2022-06-28T00:00:00+00:00, run_after=2022-06-29T00:00:00+00:00
+[2022-06-28 17:44:36,041] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.410 seconds
+[2022-06-28 17:45:07,963] {processor.py:153} INFO - Started process (PID=9731) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:45:08,004] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 17:45:08,006] {logging_mixin.py:115} INFO - [2022-06-28 17:45:08,006] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:45:08,316] {processor.py:651} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:45:08,331] {logging_mixin.py:115} INFO - [2022-06-28 17:45:08,330] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 17:45:08,345] {logging_mixin.py:115} INFO - [2022-06-28 17:45:08,345] {dag.py:2915} INFO - Setting next_dagrun for my_dag to 2022-06-28T00:00:00+00:00, run_after=2022-06-29T00:00:00+00:00
+[2022-06-28 17:45:08,412] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.455 seconds
+[2022-06-28 17:46:28,329] {processor.py:153} INFO - Started process (PID=9763) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:46:28,345] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 17:46:28,346] {logging_mixin.py:115} INFO - [2022-06-28 17:46:28,346] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:46:28,644] {processor.py:651} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:46:28,657] {logging_mixin.py:115} INFO - [2022-06-28 17:46:28,657] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 17:46:28,671] {logging_mixin.py:115} INFO - [2022-06-28 17:46:28,671] {dag.py:2915} INFO - Setting next_dagrun for my_dag to 2022-06-28T00:00:00+00:00, run_after=2022-06-29T00:00:00+00:00
+[2022-06-28 17:46:28,693] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.368 seconds
+[2022-06-28 17:47:06,830] {processor.py:153} INFO - Started process (PID=9800) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:47:06,833] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 17:47:06,833] {logging_mixin.py:115} INFO - [2022-06-28 17:47:06,833] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:47:07,188] {processor.py:651} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:47:07,201] {logging_mixin.py:115} INFO - [2022-06-28 17:47:07,201] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 17:47:07,214] {logging_mixin.py:115} INFO - [2022-06-28 17:47:07,214] {dag.py:2915} INFO - Setting next_dagrun for my_dag to 2022-06-28T00:00:00+00:00, run_after=2022-06-29T00:00:00+00:00
+[2022-06-28 17:47:07,243] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.418 seconds
+[2022-06-28 17:47:43,592] {processor.py:153} INFO - Started process (PID=9854) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:47:43,633] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 17:47:43,639] {logging_mixin.py:115} INFO - [2022-06-28 17:47:43,638] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:47:43,910] {processor.py:651} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:47:43,922] {logging_mixin.py:115} INFO - [2022-06-28 17:47:43,922] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 17:47:43,933] {logging_mixin.py:115} INFO - [2022-06-28 17:47:43,933] {dag.py:2915} INFO - Setting next_dagrun for my_dag to 2022-06-28T00:00:00+00:00, run_after=2022-06-29T00:00:00+00:00
+[2022-06-28 17:47:43,952] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.365 seconds
+[2022-06-28 17:48:18,099] {processor.py:153} INFO - Started process (PID=10082) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:48:18,100] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 17:48:18,101] {logging_mixin.py:115} INFO - [2022-06-28 17:48:18,101] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:48:18,392] {processor.py:651} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:48:18,405] {logging_mixin.py:115} INFO - [2022-06-28 17:48:18,405] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 17:48:18,418] {logging_mixin.py:115} INFO - [2022-06-28 17:48:18,418] {dag.py:2915} INFO - Setting next_dagrun for my_dag to 2022-06-28T00:00:00+00:00, run_after=2022-06-29T00:00:00+00:00
+[2022-06-28 17:48:18,440] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.347 seconds
+[2022-06-28 17:48:55,103] {processor.py:153} INFO - Started process (PID=10118) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:48:55,143] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 17:48:55,145] {logging_mixin.py:115} INFO - [2022-06-28 17:48:55,145] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:48:55,442] {processor.py:651} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:48:55,455] {logging_mixin.py:115} INFO - [2022-06-28 17:48:55,455] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 17:48:55,468] {logging_mixin.py:115} INFO - [2022-06-28 17:48:55,468] {dag.py:2915} INFO - Setting next_dagrun for my_dag to 2022-06-28T00:00:00+00:00, run_after=2022-06-29T00:00:00+00:00
+[2022-06-28 17:48:55,547] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.451 seconds
+[2022-06-28 17:49:26,590] {processor.py:153} INFO - Started process (PID=10152) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:49:26,591] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 17:49:26,591] {logging_mixin.py:115} INFO - [2022-06-28 17:49:26,591] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:49:26,889] {processor.py:651} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:49:26,915] {logging_mixin.py:115} INFO - [2022-06-28 17:49:26,915] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 17:49:26,932] {logging_mixin.py:115} INFO - [2022-06-28 17:49:26,932] {dag.py:2915} INFO - Setting next_dagrun for my_dag to 2022-06-28T00:00:00+00:00, run_after=2022-06-29T00:00:00+00:00
+[2022-06-28 17:49:26,998] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.414 seconds
+[2022-06-28 17:50:00,920] {processor.py:153} INFO - Started process (PID=10203) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:50:00,973] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 17:50:00,974] {logging_mixin.py:115} INFO - [2022-06-28 17:50:00,974] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:50:01,245] {processor.py:651} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:50:01,259] {logging_mixin.py:115} INFO - [2022-06-28 17:50:01,259] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 17:50:01,271] {logging_mixin.py:115} INFO - [2022-06-28 17:50:01,271] {dag.py:2915} INFO - Setting next_dagrun for my_dag to 2022-06-28T00:00:00+00:00, run_after=2022-06-29T00:00:00+00:00
+[2022-06-28 17:50:01,297] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.384 seconds
+[2022-06-28 17:50:36,179] {processor.py:153} INFO - Started process (PID=10237) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:50:36,206] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 17:50:36,207] {logging_mixin.py:115} INFO - [2022-06-28 17:50:36,207] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:50:36,577] {processor.py:651} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:50:36,591] {logging_mixin.py:115} INFO - [2022-06-28 17:50:36,590] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 17:50:36,604] {logging_mixin.py:115} INFO - [2022-06-28 17:50:36,604] {dag.py:2915} INFO - Setting next_dagrun for my_dag to 2022-06-28T00:00:00+00:00, run_after=2022-06-29T00:00:00+00:00
+[2022-06-28 17:50:36,623] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.449 seconds
+[2022-06-28 17:51:11,637] {processor.py:153} INFO - Started process (PID=10291) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:51:11,639] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 17:51:11,640] {logging_mixin.py:115} INFO - [2022-06-28 17:51:11,640] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:51:11,953] {processor.py:651} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:51:11,967] {logging_mixin.py:115} INFO - [2022-06-28 17:51:11,967] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 17:51:11,981] {logging_mixin.py:115} INFO - [2022-06-28 17:51:11,981] {dag.py:2915} INFO - Setting next_dagrun for my_dag to 2022-06-28T00:00:00+00:00, run_after=2022-06-29T00:00:00+00:00
+[2022-06-28 17:51:12,039] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.408 seconds
+[2022-06-28 17:51:42,809] {processor.py:153} INFO - Started process (PID=10404) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:51:42,811] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 17:51:42,812] {logging_mixin.py:115} INFO - [2022-06-28 17:51:42,812] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:51:43,127] {processor.py:651} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:51:43,138] {logging_mixin.py:115} INFO - [2022-06-28 17:51:43,138] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 17:51:43,150] {logging_mixin.py:115} INFO - [2022-06-28 17:51:43,150] {dag.py:2915} INFO - Setting next_dagrun for my_dag to 2022-06-28T00:00:00+00:00, run_after=2022-06-29T00:00:00+00:00
+[2022-06-28 17:51:43,184] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.381 seconds
+[2022-06-28 17:52:17,444] {processor.py:153} INFO - Started process (PID=10438) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:52:17,445] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 17:52:17,446] {logging_mixin.py:115} INFO - [2022-06-28 17:52:17,446] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:52:17,736] {processor.py:651} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:52:17,754] {logging_mixin.py:115} INFO - [2022-06-28 17:52:17,754] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 17:52:17,766] {logging_mixin.py:115} INFO - [2022-06-28 17:52:17,766] {dag.py:2915} INFO - Setting next_dagrun for my_dag to 2022-06-28T00:00:00+00:00, run_after=2022-06-29T00:00:00+00:00
+[2022-06-28 17:52:17,791] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.351 seconds
+[2022-06-28 17:52:48,042] {processor.py:153} INFO - Started process (PID=10468) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:52:48,044] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 17:52:48,046] {logging_mixin.py:115} INFO - [2022-06-28 17:52:48,045] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:52:48,365] {processor.py:651} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:52:48,380] {logging_mixin.py:115} INFO - [2022-06-28 17:52:48,379] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 17:52:48,391] {logging_mixin.py:115} INFO - [2022-06-28 17:52:48,391] {dag.py:2915} INFO - Setting next_dagrun for my_dag to 2022-06-28T00:00:00+00:00, run_after=2022-06-29T00:00:00+00:00
+[2022-06-28 17:52:48,481] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.446 seconds
+[2022-06-28 17:53:25,691] {processor.py:153} INFO - Started process (PID=10506) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:53:25,732] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 17:53:25,733] {logging_mixin.py:115} INFO - [2022-06-28 17:53:25,733] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:53:26,043] {processor.py:651} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:53:26,056] {logging_mixin.py:115} INFO - [2022-06-28 17:53:26,056] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 17:53:26,069] {logging_mixin.py:115} INFO - [2022-06-28 17:53:26,068] {dag.py:2915} INFO - Setting next_dagrun for my_dag to 2022-06-28T00:00:00+00:00, run_after=2022-06-29T00:00:00+00:00
+[2022-06-28 17:53:26,091] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.408 seconds
+[2022-06-28 17:53:56,528] {processor.py:153} INFO - Started process (PID=10537) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:53:56,529] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 17:53:56,529] {logging_mixin.py:115} INFO - [2022-06-28 17:53:56,529] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:53:56,776] {processor.py:651} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:53:56,793] {logging_mixin.py:115} INFO - [2022-06-28 17:53:56,793] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 17:53:56,805] {logging_mixin.py:115} INFO - [2022-06-28 17:53:56,805] {dag.py:2915} INFO - Setting next_dagrun for my_dag to 2022-06-28T00:00:00+00:00, run_after=2022-06-29T00:00:00+00:00
+[2022-06-28 17:53:56,870] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.344 seconds
+[2022-06-28 17:54:30,887] {processor.py:153} INFO - Started process (PID=10570) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:54:30,889] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 17:54:30,890] {logging_mixin.py:115} INFO - [2022-06-28 17:54:30,890] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:54:31,179] {processor.py:651} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:54:31,191] {logging_mixin.py:115} INFO - [2022-06-28 17:54:31,191] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 17:54:31,203] {logging_mixin.py:115} INFO - [2022-06-28 17:54:31,202] {dag.py:2915} INFO - Setting next_dagrun for my_dag to 2022-06-28T00:00:00+00:00, run_after=2022-06-29T00:00:00+00:00
+[2022-06-28 17:54:31,272] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.391 seconds
+[2022-06-28 17:55:06,313] {processor.py:153} INFO - Started process (PID=10607) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:55:06,315] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 17:55:06,316] {logging_mixin.py:115} INFO - [2022-06-28 17:55:06,316] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:55:06,591] {processor.py:651} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:55:06,604] {logging_mixin.py:115} INFO - [2022-06-28 17:55:06,604] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 17:55:06,617] {logging_mixin.py:115} INFO - [2022-06-28 17:55:06,616] {dag.py:2915} INFO - Setting next_dagrun for my_dag to 2022-06-28T00:00:00+00:00, run_after=2022-06-29T00:00:00+00:00
+[2022-06-28 17:55:06,687] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.382 seconds
+[2022-06-28 17:55:37,845] {processor.py:153} INFO - Started process (PID=10639) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:55:37,846] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 17:55:37,847] {logging_mixin.py:115} INFO - [2022-06-28 17:55:37,847] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:55:38,118] {processor.py:651} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:55:38,138] {logging_mixin.py:115} INFO - [2022-06-28 17:55:38,138] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 17:55:38,165] {logging_mixin.py:115} INFO - [2022-06-28 17:55:38,165] {dag.py:2915} INFO - Setting next_dagrun for my_dag to 2022-06-28T00:00:00+00:00, run_after=2022-06-29T00:00:00+00:00
+[2022-06-28 17:55:38,237] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.398 seconds
+[2022-06-28 17:56:11,676] {processor.py:153} INFO - Started process (PID=10675) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:56:11,678] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 17:56:11,679] {logging_mixin.py:115} INFO - [2022-06-28 17:56:11,678] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:56:12,053] {processor.py:651} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:56:12,075] {logging_mixin.py:115} INFO - [2022-06-28 17:56:12,074] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 17:56:12,087] {logging_mixin.py:115} INFO - [2022-06-28 17:56:12,087] {dag.py:2915} INFO - Setting next_dagrun for my_dag to 2022-06-28T00:00:00+00:00, run_after=2022-06-29T00:00:00+00:00
+[2022-06-28 17:56:12,153] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.484 seconds
+[2022-06-28 17:56:46,087] {processor.py:153} INFO - Started process (PID=10711) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:56:46,090] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 17:56:46,091] {logging_mixin.py:115} INFO - [2022-06-28 17:56:46,091] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:56:46,391] {processor.py:651} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:56:46,403] {logging_mixin.py:115} INFO - [2022-06-28 17:56:46,403] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 17:56:46,415] {logging_mixin.py:115} INFO - [2022-06-28 17:56:46,415] {dag.py:2915} INFO - Setting next_dagrun for my_dag to 2022-06-28T00:00:00+00:00, run_after=2022-06-29T00:00:00+00:00
+[2022-06-28 17:56:46,481] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.399 seconds
+[2022-06-28 17:57:17,402] {processor.py:153} INFO - Started process (PID=10741) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:57:17,403] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 17:57:17,404] {logging_mixin.py:115} INFO - [2022-06-28 17:57:17,404] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:57:17,656] {processor.py:651} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:57:17,668] {logging_mixin.py:115} INFO - [2022-06-28 17:57:17,668] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 17:57:17,679] {logging_mixin.py:115} INFO - [2022-06-28 17:57:17,679] {dag.py:2915} INFO - Setting next_dagrun for my_dag to 2022-06-28T00:00:00+00:00, run_after=2022-06-29T00:00:00+00:00
+[2022-06-28 17:57:17,704] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.306 seconds
+[2022-06-28 17:57:48,759] {processor.py:153} INFO - Started process (PID=10773) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:57:48,760] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 17:57:48,761] {logging_mixin.py:115} INFO - [2022-06-28 17:57:48,761] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:57:49,085] {processor.py:651} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:57:49,097] {logging_mixin.py:115} INFO - [2022-06-28 17:57:49,096] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 17:57:49,108] {logging_mixin.py:115} INFO - [2022-06-28 17:57:49,108] {dag.py:2915} INFO - Setting next_dagrun for my_dag to 2022-06-28T00:00:00+00:00, run_after=2022-06-29T00:00:00+00:00
+[2022-06-28 17:57:49,173] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.421 seconds
+[2022-06-28 17:58:21,512] {processor.py:153} INFO - Started process (PID=10808) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:58:21,566] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 17:58:21,567] {logging_mixin.py:115} INFO - [2022-06-28 17:58:21,567] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:58:21,853] {processor.py:651} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:58:21,865] {logging_mixin.py:115} INFO - [2022-06-28 17:58:21,865] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 17:58:21,878] {logging_mixin.py:115} INFO - [2022-06-28 17:58:21,878] {dag.py:2915} INFO - Setting next_dagrun for my_dag to 2022-06-28T00:00:00+00:00, run_after=2022-06-29T00:00:00+00:00
+[2022-06-28 17:58:21,899] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.393 seconds
+[2022-06-28 17:58:57,926] {processor.py:153} INFO - Started process (PID=10846) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:58:57,966] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 17:58:57,967] {logging_mixin.py:115} INFO - [2022-06-28 17:58:57,967] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:58:58,279] {processor.py:651} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:58:58,296] {logging_mixin.py:115} INFO - [2022-06-28 17:58:58,296] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 17:58:58,311] {logging_mixin.py:115} INFO - [2022-06-28 17:58:58,311] {dag.py:2915} INFO - Setting next_dagrun for my_dag to 2022-06-28T00:00:00+00:00, run_after=2022-06-29T00:00:00+00:00
+[2022-06-28 17:58:58,371] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.452 seconds
+[2022-06-28 17:59:35,749] {processor.py:153} INFO - Started process (PID=10882) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:59:35,789] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 17:59:35,790] {logging_mixin.py:115} INFO - [2022-06-28 17:59:35,790] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:59:36,075] {processor.py:651} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 17:59:36,087] {logging_mixin.py:115} INFO - [2022-06-28 17:59:36,087] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 17:59:36,099] {logging_mixin.py:115} INFO - [2022-06-28 17:59:36,099] {dag.py:2915} INFO - Setting next_dagrun for my_dag to 2022-06-28T00:00:00+00:00, run_after=2022-06-29T00:00:00+00:00
+[2022-06-28 17:59:36,125] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.383 seconds
+[2022-06-28 18:00:11,972] {processor.py:153} INFO - Started process (PID=10921) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:00:12,012] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:00:12,013] {logging_mixin.py:115} INFO - [2022-06-28 18:00:12,013] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:00:12,292] {processor.py:651} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:00:12,304] {logging_mixin.py:115} INFO - [2022-06-28 18:00:12,304] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:00:12,315] {logging_mixin.py:115} INFO - [2022-06-28 18:00:12,315] {dag.py:2915} INFO - Setting next_dagrun for my_dag to 2022-06-28T00:00:00+00:00, run_after=2022-06-29T00:00:00+00:00
+[2022-06-28 18:00:12,376] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.410 seconds
+[2022-06-28 18:00:48,364] {processor.py:153} INFO - Started process (PID=10957) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:00:48,399] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:00:48,400] {logging_mixin.py:115} INFO - [2022-06-28 18:00:48,400] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:00:48,707] {processor.py:651} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:00:48,718] {logging_mixin.py:115} INFO - [2022-06-28 18:00:48,718] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:00:48,730] {logging_mixin.py:115} INFO - [2022-06-28 18:00:48,730] {dag.py:2915} INFO - Setting next_dagrun for my_dag to 2022-06-28T00:00:00+00:00, run_after=2022-06-29T00:00:00+00:00
+[2022-06-28 18:00:48,772] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.415 seconds
+[2022-06-28 18:01:25,520] {processor.py:153} INFO - Started process (PID=10995) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:01:25,561] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:01:25,562] {logging_mixin.py:115} INFO - [2022-06-28 18:01:25,561] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:01:25,862] {processor.py:651} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:01:25,874] {logging_mixin.py:115} INFO - [2022-06-28 18:01:25,874] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:01:25,885] {logging_mixin.py:115} INFO - [2022-06-28 18:01:25,885] {dag.py:2915} INFO - Setting next_dagrun for my_dag to 2022-06-28T00:00:00+00:00, run_after=2022-06-29T00:00:00+00:00
+[2022-06-28 18:01:25,953] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.436 seconds
+[2022-06-28 18:02:00,747] {processor.py:153} INFO - Started process (PID=11030) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:02:00,748] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:02:00,749] {logging_mixin.py:115} INFO - [2022-06-28 18:02:00,749] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:02:01,013] {processor.py:651} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:02:01,025] {logging_mixin.py:115} INFO - [2022-06-28 18:02:01,025] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:02:01,036] {logging_mixin.py:115} INFO - [2022-06-28 18:02:01,036] {dag.py:2915} INFO - Setting next_dagrun for my_dag to 2022-06-28T00:00:00+00:00, run_after=2022-06-29T00:00:00+00:00
+[2022-06-28 18:02:01,057] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.316 seconds
+[2022-06-28 18:02:37,427] {processor.py:153} INFO - Started process (PID=11065) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:02:37,429] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:02:37,430] {logging_mixin.py:115} INFO - [2022-06-28 18:02:37,430] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:02:37,712] {processor.py:651} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:02:37,724] {logging_mixin.py:115} INFO - [2022-06-28 18:02:37,724] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:02:37,735] {logging_mixin.py:115} INFO - [2022-06-28 18:02:37,735] {dag.py:2915} INFO - Setting next_dagrun for my_dag to 2022-06-28T00:00:00+00:00, run_after=2022-06-29T00:00:00+00:00
+[2022-06-28 18:02:37,802] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.382 seconds
+[2022-06-28 18:03:08,226] {processor.py:153} INFO - Started process (PID=11095) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:03:08,227] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:03:08,228] {logging_mixin.py:115} INFO - [2022-06-28 18:03:08,228] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:03:08,492] {processor.py:651} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:03:08,504] {logging_mixin.py:115} INFO - [2022-06-28 18:03:08,503] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:03:08,515] {logging_mixin.py:115} INFO - [2022-06-28 18:03:08,515] {dag.py:2915} INFO - Setting next_dagrun for my_dag to 2022-06-28T00:00:00+00:00, run_after=2022-06-29T00:00:00+00:00
+[2022-06-28 18:03:08,537] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.317 seconds
+[2022-06-28 18:03:42,841] {processor.py:153} INFO - Started process (PID=11130) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:03:42,844] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:03:42,846] {logging_mixin.py:115} INFO - [2022-06-28 18:03:42,845] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:03:43,157] {processor.py:651} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:03:43,168] {logging_mixin.py:115} INFO - [2022-06-28 18:03:43,168] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:03:43,180] {logging_mixin.py:115} INFO - [2022-06-28 18:03:43,179] {dag.py:2915} INFO - Setting next_dagrun for my_dag to 2022-06-28T00:00:00+00:00, run_after=2022-06-29T00:00:00+00:00
+[2022-06-28 18:03:43,202] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.367 seconds
+[2022-06-28 18:04:13,951] {processor.py:153} INFO - Started process (PID=11160) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:04:13,952] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:04:13,953] {logging_mixin.py:115} INFO - [2022-06-28 18:04:13,953] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:04:14,238] {processor.py:651} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:04:14,249] {logging_mixin.py:115} INFO - [2022-06-28 18:04:14,249] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:04:14,262] {logging_mixin.py:115} INFO - [2022-06-28 18:04:14,262] {dag.py:2915} INFO - Setting next_dagrun for my_dag to 2022-06-28T00:00:00+00:00, run_after=2022-06-29T00:00:00+00:00
+[2022-06-28 18:04:14,324] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.379 seconds
+[2022-06-28 18:04:47,769] {processor.py:153} INFO - Started process (PID=11191) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:04:47,771] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:04:47,772] {logging_mixin.py:115} INFO - [2022-06-28 18:04:47,772] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:04:48,156] {processor.py:651} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:04:48,170] {logging_mixin.py:115} INFO - [2022-06-28 18:04:48,170] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:04:48,191] {logging_mixin.py:115} INFO - [2022-06-28 18:04:48,191] {dag.py:2915} INFO - Setting next_dagrun for my_dag to 2022-06-28T00:00:00+00:00, run_after=2022-06-29T00:00:00+00:00
+[2022-06-28 18:04:48,258] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.494 seconds
+[2022-06-28 18:05:21,036] {processor.py:153} INFO - Started process (PID=11224) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:05:21,077] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:05:21,078] {logging_mixin.py:115} INFO - [2022-06-28 18:05:21,078] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:05:21,343] {processor.py:651} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:05:21,356] {logging_mixin.py:115} INFO - [2022-06-28 18:05:21,355] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:05:21,367] {logging_mixin.py:115} INFO - [2022-06-28 18:05:21,367] {dag.py:2915} INFO - Setting next_dagrun for my_dag to 2022-06-28T00:00:00+00:00, run_after=2022-06-29T00:00:00+00:00
+[2022-06-28 18:05:21,436] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.406 seconds
+[2022-06-28 18:05:57,329] {processor.py:153} INFO - Started process (PID=11259) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:05:57,331] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:05:57,332] {logging_mixin.py:115} INFO - [2022-06-28 18:05:57,332] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:05:57,677] {processor.py:651} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:05:57,689] {logging_mixin.py:115} INFO - [2022-06-28 18:05:57,689] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:05:57,700] {logging_mixin.py:115} INFO - [2022-06-28 18:05:57,700] {dag.py:2915} INFO - Setting next_dagrun for my_dag to 2022-06-28T00:00:00+00:00, run_after=2022-06-29T00:00:00+00:00
+[2022-06-28 18:05:57,722] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.398 seconds
+[2022-06-28 18:06:30,021] {processor.py:153} INFO - Started process (PID=11290) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:06:30,022] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:06:30,023] {logging_mixin.py:115} INFO - [2022-06-28 18:06:30,023] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:06:30,376] {processor.py:651} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:06:30,389] {logging_mixin.py:115} INFO - [2022-06-28 18:06:30,389] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:06:30,401] {logging_mixin.py:115} INFO - [2022-06-28 18:06:30,401] {dag.py:2915} INFO - Setting next_dagrun for my_dag to 2022-06-28T00:00:00+00:00, run_after=2022-06-29T00:00:00+00:00
+[2022-06-28 18:06:30,461] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.447 seconds
+[2022-06-28 18:07:06,009] {processor.py:153} INFO - Started process (PID=11324) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:07:06,050] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:07:06,051] {logging_mixin.py:115} INFO - [2022-06-28 18:07:06,051] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:07:06,322] {processor.py:651} INFO - DAG(s) dict_keys(['my_dag']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:07:06,334] {logging_mixin.py:115} INFO - [2022-06-28 18:07:06,334] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:07:06,346] {logging_mixin.py:115} INFO - [2022-06-28 18:07:06,346] {dag.py:2915} INFO - Setting next_dagrun for my_dag to 2022-06-28T00:00:00+00:00, run_after=2022-06-29T00:00:00+00:00
+[2022-06-28 18:07:06,414] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.412 seconds
+[2022-06-28 18:07:35,410] {processor.py:153} INFO - Started process (PID=11360) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:07:35,410] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:07:35,411] {logging_mixin.py:115} INFO - [2022-06-28 18:07:35,411] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:07:35,754] {logging_mixin.py:115} INFO - [2022-06-28 18:07:35,752] {dagbag.py:320} ERROR - Failed to import: /root/airflow/dags/CarPriceDag.py
+Traceback (most recent call last):
+  File "/root/airflow_env/lib/python3.8/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/root/airflow/dags/CarPriceDag.py", line 16, in <module>
+    @dag(
+NameError: name 'dag' is not defined
+[2022-06-28 18:07:35,755] {processor.py:653} WARNING - No viable dags retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:07:35,787] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.383 seconds
+[2022-06-28 18:07:43,777] {processor.py:153} INFO - Started process (PID=11369) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:07:43,817] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:07:43,819] {logging_mixin.py:115} INFO - [2022-06-28 18:07:43,818] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:07:44,086] {logging_mixin.py:115} INFO - [2022-06-28 18:07:44,086] {dagbag.py:320} ERROR - Failed to import: /root/airflow/dags/CarPriceDag.py
+Traceback (most recent call last):
+  File "/root/airflow_env/lib/python3.8/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/root/airflow/dags/CarPriceDag.py", line 16, in <module>
+    @dag(
+NameError: name 'dag' is not defined
+[2022-06-28 18:07:44,087] {processor.py:653} WARNING - No viable dags retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:07:44,149] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.378 seconds
+[2022-06-28 18:07:51,592] {processor.py:153} INFO - Started process (PID=11376) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:07:51,593] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:07:51,593] {logging_mixin.py:115} INFO - [2022-06-28 18:07:51,593] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:07:51,931] {logging_mixin.py:115} INFO - [2022-06-28 18:07:51,930] {dagbag.py:320} ERROR - Failed to import: /root/airflow/dags/CarPriceDag.py
+Traceback (most recent call last):
+  File "/root/airflow_env/lib/python3.8/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/root/airflow/dags/CarPriceDag.py", line 16, in <module>
+    @dag(
+NameError: name 'dag' is not defined
+[2022-06-28 18:07:51,931] {processor.py:653} WARNING - No viable dags retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:07:51,995] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.409 seconds
+[2022-06-28 18:08:01,776] {processor.py:153} INFO - Started process (PID=11386) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:08:01,777] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:08:01,778] {logging_mixin.py:115} INFO - [2022-06-28 18:08:01,778] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:08:02,060] {logging_mixin.py:115} INFO - [2022-06-28 18:08:02,060] {dagbag.py:320} ERROR - Failed to import: /root/airflow/dags/CarPriceDag.py
+Traceback (most recent call last):
+  File "/root/airflow_env/lib/python3.8/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/root/airflow/dags/CarPriceDag.py", line 16, in <module>
+    @dag(
+NameError: name 'dag' is not defined
+[2022-06-28 18:08:02,061] {processor.py:653} WARNING - No viable dags retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:08:02,122] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.352 seconds
+[2022-06-28 18:08:14,723] {processor.py:153} INFO - Started process (PID=11398) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:08:14,724] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:08:14,725] {logging_mixin.py:115} INFO - [2022-06-28 18:08:14,724] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:08:15,033] {logging_mixin.py:115} INFO - [2022-06-28 18:08:15,033] {dagbag.py:320} ERROR - Failed to import: /root/airflow/dags/CarPriceDag.py
+Traceback (most recent call last):
+  File "/root/airflow_env/lib/python3.8/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/root/airflow/dags/CarPriceDag.py", line 16, in <module>
+    @dag(
+NameError: name 'dag' is not defined
+[2022-06-28 18:08:15,033] {processor.py:653} WARNING - No viable dags retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:08:15,061] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.345 seconds
+[2022-06-28 18:08:28,718] {processor.py:153} INFO - Started process (PID=11417) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:08:28,758] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:08:28,759] {logging_mixin.py:115} INFO - [2022-06-28 18:08:28,759] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:08:29,050] {logging_mixin.py:115} INFO - [2022-06-28 18:08:29,049] {dagbag.py:320} ERROR - Failed to import: /root/airflow/dags/CarPriceDag.py
+Traceback (most recent call last):
+  File "/root/airflow_env/lib/python3.8/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/root/airflow/dags/CarPriceDag.py", line 16, in <module>
+    @dag(
+NameError: name 'dag' is not defined
+[2022-06-28 18:08:29,050] {processor.py:653} WARNING - No viable dags retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:08:29,081] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.369 seconds
+[2022-06-28 18:08:40,696] {processor.py:153} INFO - Started process (PID=11601) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:08:40,696] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:08:40,697] {logging_mixin.py:115} INFO - [2022-06-28 18:08:40,696] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:08:40,957] {logging_mixin.py:115} INFO - [2022-06-28 18:08:40,957] {dagbag.py:320} ERROR - Failed to import: /root/airflow/dags/CarPriceDag.py
+Traceback (most recent call last):
+  File "/root/airflow_env/lib/python3.8/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/root/airflow/dags/CarPriceDag.py", line 16, in <module>
+    @dag(
+NameError: name 'dag' is not defined
+[2022-06-28 18:08:40,958] {processor.py:653} WARNING - No viable dags retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:08:40,984] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.291 seconds
+[2022-06-28 18:08:53,383] {processor.py:153} INFO - Started process (PID=11654) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:08:53,383] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:08:53,384] {logging_mixin.py:115} INFO - [2022-06-28 18:08:53,384] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:08:53,668] {logging_mixin.py:115} INFO - [2022-06-28 18:08:53,667] {dagbag.py:320} ERROR - Failed to import: /root/airflow/dags/CarPriceDag.py
+Traceback (most recent call last):
+  File "/root/airflow_env/lib/python3.8/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/root/airflow/dags/CarPriceDag.py", line 16, in <module>
+    @dag(
+NameError: name 'dag' is not defined
+[2022-06-28 18:08:53,668] {processor.py:653} WARNING - No viable dags retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:08:53,690] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.310 seconds
+[2022-06-28 18:09:30,721] {processor.py:153} INFO - Started process (PID=11692) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:09:30,722] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:09:30,723] {logging_mixin.py:115} INFO - [2022-06-28 18:09:30,723] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:09:31,024] {logging_mixin.py:115} INFO - [2022-06-28 18:09:31,023] {dagbag.py:320} ERROR - Failed to import: /root/airflow/dags/CarPriceDag.py
+Traceback (most recent call last):
+  File "/root/airflow_env/lib/python3.8/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/root/airflow/dags/CarPriceDag.py", line 16, in <module>
+    @dag(
+NameError: name 'dag' is not defined
+[2022-06-28 18:09:31,024] {processor.py:653} WARNING - No viable dags retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:09:31,049] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.334 seconds
+[2022-06-28 18:09:37,097] {processor.py:153} INFO - Started process (PID=11698) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:09:37,097] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:09:37,098] {logging_mixin.py:115} INFO - [2022-06-28 18:09:37,098] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:09:37,366] {logging_mixin.py:115} INFO - [2022-06-28 18:09:37,365] {dagbag.py:320} ERROR - Failed to import: /root/airflow/dags/CarPriceDag.py
+Traceback (most recent call last):
+  File "/root/airflow_env/lib/python3.8/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/root/airflow/dags/CarPriceDag.py", line 16, in <module>
+    @dag(
+NameError: name 'dag' is not defined
+[2022-06-28 18:09:37,366] {processor.py:653} WARNING - No viable dags retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:09:37,390] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.300 seconds
+[2022-06-28 18:09:45,153] {processor.py:153} INFO - Started process (PID=11706) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:09:45,154] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:09:45,155] {logging_mixin.py:115} INFO - [2022-06-28 18:09:45,155] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:09:45,448] {logging_mixin.py:115} INFO - [2022-06-28 18:09:45,448] {dagbag.py:320} ERROR - Failed to import: /root/airflow/dags/CarPriceDag.py
+Traceback (most recent call last):
+  File "/root/airflow_env/lib/python3.8/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/root/airflow/dags/CarPriceDag.py", line 16, in <module>
+    @dag(
+NameError: name 'dag' is not defined
+[2022-06-28 18:09:45,449] {processor.py:653} WARNING - No viable dags retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:09:45,483] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.336 seconds
+[2022-06-28 18:09:54,520] {processor.py:153} INFO - Started process (PID=11717) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:09:54,521] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:09:54,521] {logging_mixin.py:115} INFO - [2022-06-28 18:09:54,521] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:09:54,794] {logging_mixin.py:115} INFO - [2022-06-28 18:09:54,794] {dagbag.py:320} ERROR - Failed to import: /root/airflow/dags/CarPriceDag.py
+Traceback (most recent call last):
+  File "/root/airflow_env/lib/python3.8/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/root/airflow/dags/CarPriceDag.py", line 16, in <module>
+    @dag(
+NameError: name 'dag' is not defined
+[2022-06-28 18:09:54,794] {processor.py:653} WARNING - No viable dags retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:09:54,859] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.342 seconds
+[2022-06-28 18:10:06,490] {processor.py:153} INFO - Started process (PID=11728) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:10:06,493] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:10:06,494] {logging_mixin.py:115} INFO - [2022-06-28 18:10:06,494] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:10:06,788] {logging_mixin.py:115} INFO - [2022-06-28 18:10:06,788] {dagbag.py:320} ERROR - Failed to import: /root/airflow/dags/CarPriceDag.py
+Traceback (most recent call last):
+  File "/root/airflow_env/lib/python3.8/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/root/airflow/dags/CarPriceDag.py", line 16, in <module>
+    @dag(
+NameError: name 'dag' is not defined
+[2022-06-28 18:10:06,788] {processor.py:653} WARNING - No viable dags retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:10:06,813] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.326 seconds
+[2022-06-28 18:10:18,318] {processor.py:153} INFO - Started process (PID=11742) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:10:18,319] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:10:18,320] {logging_mixin.py:115} INFO - [2022-06-28 18:10:18,320] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:10:18,646] {logging_mixin.py:115} INFO - [2022-06-28 18:10:18,646] {dagbag.py:320} ERROR - Failed to import: /root/airflow/dags/CarPriceDag.py
+Traceback (most recent call last):
+  File "/root/airflow_env/lib/python3.8/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/root/airflow/dags/CarPriceDag.py", line 16, in <module>
+    @dag(
+NameError: name 'dag' is not defined
+[2022-06-28 18:10:18,647] {processor.py:653} WARNING - No viable dags retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:10:18,689] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.376 seconds
+[2022-06-28 18:10:28,725] {processor.py:153} INFO - Started process (PID=11757) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:10:28,725] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:10:28,727] {logging_mixin.py:115} INFO - [2022-06-28 18:10:28,726] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:10:29,020] {logging_mixin.py:115} INFO - [2022-06-28 18:10:29,019] {dagbag.py:320} ERROR - Failed to import: /root/airflow/dags/CarPriceDag.py
+Traceback (most recent call last):
+  File "/root/airflow_env/lib/python3.8/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/root/airflow/dags/CarPriceDag.py", line 23, in <module>
+    schedule_interval=timedelta(minutes=1),
+NameError: name 'timedelta' is not defined
+[2022-06-28 18:10:29,021] {processor.py:653} WARNING - No viable dags retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:10:29,051] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.333 seconds
+[2022-06-28 18:10:39,074] {processor.py:153} INFO - Started process (PID=11771) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:10:39,115] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:10:39,116] {logging_mixin.py:115} INFO - [2022-06-28 18:10:39,116] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:10:39,425] {logging_mixin.py:115} INFO - [2022-06-28 18:10:39,424] {dagbag.py:320} ERROR - Failed to import: /root/airflow/dags/CarPriceDag.py
+Traceback (most recent call last):
+  File "/root/airflow_env/lib/python3.8/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/root/airflow/dags/CarPriceDag.py", line 23, in <module>
+    schedule_interval=timedelta(minutes=1),
+NameError: name 'timedelta' is not defined
+[2022-06-28 18:10:39,425] {processor.py:653} WARNING - No viable dags retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:10:39,448] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.380 seconds
+[2022-06-28 18:10:48,619] {processor.py:153} INFO - Started process (PID=11798) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:10:48,619] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:10:48,619] {logging_mixin.py:115} INFO - [2022-06-28 18:10:48,619] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:10:48,892] {logging_mixin.py:115} INFO - [2022-06-28 18:10:48,891] {dagbag.py:320} ERROR - Failed to import: /root/airflow/dags/CarPriceDag.py
+Traceback (most recent call last):
+  File "/root/airflow_env/lib/python3.8/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/root/airflow/dags/CarPriceDag.py", line 23, in <module>
+    schedule_interval=timedelta(minutes=1),
+NameError: name 'timedelta' is not defined
+[2022-06-28 18:10:48,892] {processor.py:653} WARNING - No viable dags retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:10:48,931] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.316 seconds
+[2022-06-28 18:11:26,242] {processor.py:153} INFO - Started process (PID=11837) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:11:26,283] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:11:26,284] {logging_mixin.py:115} INFO - [2022-06-28 18:11:26,284] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:11:26,576] {logging_mixin.py:115} INFO - [2022-06-28 18:11:26,576] {dagbag.py:320} ERROR - Failed to import: /root/airflow/dags/CarPriceDag.py
+Traceback (most recent call last):
+  File "/root/airflow_env/lib/python3.8/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/root/airflow/dags/CarPriceDag.py", line 23, in <module>
+    schedule_interval=timedelta(minutes=1),
+NameError: name 'timedelta' is not defined
+[2022-06-28 18:11:26,576] {processor.py:653} WARNING - No viable dags retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:11:26,596] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.360 seconds
+[2022-06-28 18:11:34,103] {processor.py:153} INFO - Started process (PID=11844) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:11:34,104] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:11:34,105] {logging_mixin.py:115} INFO - [2022-06-28 18:11:34,105] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:11:34,393] {logging_mixin.py:115} INFO - [2022-06-28 18:11:34,393] {dagbag.py:320} ERROR - Failed to import: /root/airflow/dags/CarPriceDag.py
+Traceback (most recent call last):
+  File "/root/airflow_env/lib/python3.8/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/root/airflow/dags/CarPriceDag.py", line 23, in <module>
+    schedule_interval=timedelta(minutes=1),
+NameError: name 'timedelta' is not defined
+[2022-06-28 18:11:34,394] {processor.py:653} WARNING - No viable dags retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:11:34,419] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.321 seconds
+[2022-06-28 18:11:43,147] {processor.py:153} INFO - Started process (PID=11853) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:11:43,148] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:11:43,150] {logging_mixin.py:115} INFO - [2022-06-28 18:11:43,149] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:11:43,429] {logging_mixin.py:115} INFO - [2022-06-28 18:11:43,428] {dagbag.py:320} ERROR - Failed to import: /root/airflow/dags/CarPriceDag.py
+Traceback (most recent call last):
+  File "/root/airflow_env/lib/python3.8/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/root/airflow/dags/CarPriceDag.py", line 23, in <module>
+    schedule_interval=timedelta(minutes=1),
+NameError: name 'timedelta' is not defined
+[2022-06-28 18:11:43,429] {processor.py:653} WARNING - No viable dags retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:11:43,504] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.364 seconds
+[2022-06-28 18:11:53,695] {processor.py:153} INFO - Started process (PID=11874) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:11:53,696] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:11:53,697] {logging_mixin.py:115} INFO - [2022-06-28 18:11:53,697] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:11:54,053] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:11:54,127] {logging_mixin.py:115} INFO - [2022-06-28 18:11:54,127] {manager.py:508} INFO - Created Permission View: can delete on DAG:ingest_data
+[2022-06-28 18:11:54,156] {logging_mixin.py:115} INFO - [2022-06-28 18:11:54,156] {manager.py:508} INFO - Created Permission View: can read on DAG:ingest_data
+[2022-06-28 18:11:54,178] {logging_mixin.py:115} INFO - [2022-06-28 18:11:54,178] {manager.py:508} INFO - Created Permission View: can edit on DAG:ingest_data
+[2022-06-28 18:11:54,179] {logging_mixin.py:115} INFO - [2022-06-28 18:11:54,179] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:11:54,189] {logging_mixin.py:115} INFO - [2022-06-28 18:11:54,189] {dag.py:2390} INFO - Creating ORM DAG for ingest_data
+[2022-06-28 18:11:54,196] {logging_mixin.py:115} INFO - [2022-06-28 18:11:54,195] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-27T21:00:00+00:00, run_after=2022-06-27T21:01:00+00:00
+[2022-06-28 18:11:54,235] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.547 seconds
+[2022-06-28 18:12:03,460] {processor.py:153} INFO - Started process (PID=11897) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:12:03,462] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:12:03,463] {logging_mixin.py:115} INFO - [2022-06-28 18:12:03,463] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:12:03,752] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:12:03,756] {logging_mixin.py:115} INFO - [2022-06-28 18:12:03,756] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:12:03,767] {logging_mixin.py:115} INFO - [2022-06-28 18:12:03,767] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-27T21:00:00+00:00, run_after=2022-06-27T21:01:00+00:00
+[2022-06-28 18:12:03,846] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.389 seconds
+[2022-06-28 18:13:09,639] {processor.py:153} INFO - Started process (PID=12151) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:13:09,641] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:13:09,641] {logging_mixin.py:115} INFO - [2022-06-28 18:13:09,641] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:13:09,909] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:13:09,942] {logging_mixin.py:115} INFO - [2022-06-28 18:13:09,942] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:13:09,951] {logging_mixin.py:115} INFO - [2022-06-28 18:13:09,951] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-27T21:05:00+00:00, run_after=2022-06-27T21:06:00+00:00
+[2022-06-28 18:13:09,973] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.338 seconds
+[2022-06-28 18:14:53,304] {processor.py:153} INFO - Started process (PID=12823) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:14:53,305] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:14:53,306] {logging_mixin.py:115} INFO - [2022-06-28 18:14:53,306] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:14:53,633] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:14:53,667] {logging_mixin.py:115} INFO - [2022-06-28 18:14:53,667] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:14:53,679] {logging_mixin.py:115} INFO - [2022-06-28 18:14:53,679] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-27T21:23:00+00:00, run_after=2022-06-27T21:24:00+00:00
+[2022-06-28 18:14:53,756] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.455 seconds
+[2022-06-28 18:16:34,865] {processor.py:153} INFO - Started process (PID=13484) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:16:34,867] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:16:34,868] {logging_mixin.py:115} INFO - [2022-06-28 18:16:34,867] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:16:35,177] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:16:35,204] {logging_mixin.py:115} INFO - [2022-06-28 18:16:35,203] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:16:35,213] {logging_mixin.py:115} INFO - [2022-06-28 18:16:35,213] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:15:51.072773+00:00, run_after=2022-06-28T16:16:51.072773+00:00
+[2022-06-28 18:16:35,236] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.376 seconds
+[2022-06-28 18:17:04,742] {processor.py:153} INFO - Started process (PID=13547) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:17:04,743] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:17:04,744] {logging_mixin.py:115} INFO - [2022-06-28 18:17:04,743] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:17:05,055] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:17:05,060] {logging_mixin.py:115} INFO - [2022-06-28 18:17:05,060] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:17:05,071] {logging_mixin.py:115} INFO - [2022-06-28 18:17:05,071] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:16:51.072773+00:00, run_after=2022-06-28T16:17:51.072773+00:00
+[2022-06-28 18:17:05,137] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.401 seconds
+[2022-06-28 18:17:15,155] {processor.py:153} INFO - Started process (PID=13558) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:17:15,157] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:17:15,158] {logging_mixin.py:115} INFO - [2022-06-28 18:17:15,158] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:17:15,432] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:17:15,463] {logging_mixin.py:115} INFO - [2022-06-28 18:17:15,463] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:17:15,474] {logging_mixin.py:115} INFO - [2022-06-28 18:17:15,474] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:16:51.072773+00:00, run_after=2022-06-28T16:17:51.072773+00:00
+[2022-06-28 18:17:15,498] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.348 seconds
+[2022-06-28 18:17:26,043] {processor.py:153} INFO - Started process (PID=13568) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:17:26,044] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:17:26,045] {logging_mixin.py:115} INFO - [2022-06-28 18:17:26,045] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:17:26,353] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:17:26,357] {logging_mixin.py:115} INFO - [2022-06-28 18:17:26,357] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:17:26,373] {logging_mixin.py:115} INFO - [2022-06-28 18:17:26,373] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:16:51.072773+00:00, run_after=2022-06-28T16:17:51.072773+00:00
+[2022-06-28 18:17:26,439] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.402 seconds
+[2022-06-28 18:17:36,286] {processor.py:153} INFO - Started process (PID=13610) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:17:36,288] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:17:36,289] {logging_mixin.py:115} INFO - [2022-06-28 18:17:36,289] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:17:36,561] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:17:36,566] {logging_mixin.py:115} INFO - [2022-06-28 18:17:36,566] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:17:36,579] {logging_mixin.py:115} INFO - [2022-06-28 18:17:36,579] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:16:51.072773+00:00, run_after=2022-06-28T16:17:51.072773+00:00
+[2022-06-28 18:17:36,613] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.332 seconds
+[2022-06-28 18:17:44,512] {processor.py:153} INFO - Started process (PID=13620) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:17:44,513] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:17:44,513] {logging_mixin.py:115} INFO - [2022-06-28 18:17:44,513] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:17:44,812] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:17:44,823] {logging_mixin.py:115} INFO - [2022-06-28 18:17:44,823] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:17:44,845] {logging_mixin.py:115} INFO - [2022-06-28 18:17:44,845] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:16:51.072773+00:00, run_after=2022-06-28T16:17:51.072773+00:00
+[2022-06-28 18:17:44,877] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.369 seconds
+[2022-06-28 18:18:05,602] {processor.py:153} INFO - Started process (PID=13682) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:18:05,602] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:18:05,602] {logging_mixin.py:115} INFO - [2022-06-28 18:18:05,602] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:18:05,922] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:18:05,931] {logging_mixin.py:115} INFO - [2022-06-28 18:18:05,931] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:18:05,944] {logging_mixin.py:115} INFO - [2022-06-28 18:18:05,944] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:17:51.072773+00:00, run_after=2022-06-28T16:18:51.072773+00:00
+[2022-06-28 18:18:06,012] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.413 seconds
+[2022-06-28 18:19:47,261] {processor.py:153} INFO - Started process (PID=14791) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:19:47,263] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:19:47,264] {logging_mixin.py:115} INFO - [2022-06-28 18:19:47,264] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:19:47,562] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:19:47,589] {logging_mixin.py:115} INFO - [2022-06-28 18:19:47,589] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:19:47,599] {logging_mixin.py:115} INFO - [2022-06-28 18:19:47,599] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:17:51.072773+00:00, run_after=2022-06-28T16:18:51.072773+00:00
+[2022-06-28 18:19:47,621] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.364 seconds
+[2022-06-28 18:20:31,857] {processor.py:153} INFO - Started process (PID=14899) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:20:31,898] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:20:31,899] {logging_mixin.py:115} INFO - [2022-06-28 18:20:31,899] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:20:32,225] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:20:32,256] {logging_mixin.py:115} INFO - [2022-06-28 18:20:32,256] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:20:32,267] {logging_mixin.py:115} INFO - [2022-06-28 18:20:32,267] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:19:51.072773+00:00, run_after=2022-06-28T16:20:51.072773+00:00
+[2022-06-28 18:20:32,289] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.438 seconds
+[2022-06-28 18:20:38,268] {processor.py:153} INFO - Started process (PID=14905) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:20:38,268] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:20:38,269] {logging_mixin.py:115} INFO - [2022-06-28 18:20:38,268] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:20:38,522] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:20:38,527] {logging_mixin.py:115} INFO - [2022-06-28 18:20:38,527] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:20:38,538] {logging_mixin.py:115} INFO - [2022-06-28 18:20:38,538] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:19:51.072773+00:00, run_after=2022-06-28T16:20:51.072773+00:00
+[2022-06-28 18:20:38,558] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.293 seconds
+[2022-06-28 18:20:46,307] {processor.py:153} INFO - Started process (PID=14931) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:20:46,308] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:20:46,309] {logging_mixin.py:115} INFO - [2022-06-28 18:20:46,309] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:20:46,629] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:20:46,636] {logging_mixin.py:115} INFO - [2022-06-28 18:20:46,636] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:20:46,652] {logging_mixin.py:115} INFO - [2022-06-28 18:20:46,652] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:19:51.072773+00:00, run_after=2022-06-28T16:20:51.072773+00:00
+[2022-06-28 18:20:46,683] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.382 seconds
+[2022-06-28 18:20:59,987] {processor.py:153} INFO - Started process (PID=14976) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:20:59,988] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:20:59,989] {logging_mixin.py:115} INFO - [2022-06-28 18:20:59,989] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:21:00,325] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:21:00,331] {logging_mixin.py:115} INFO - [2022-06-28 18:21:00,331] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:21:00,346] {logging_mixin.py:115} INFO - [2022-06-28 18:21:00,346] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:20:51.072773+00:00, run_after=2022-06-28T16:21:51.072773+00:00
+[2022-06-28 18:21:00,369] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.388 seconds
+[2022-06-28 18:21:15,623] {processor.py:153} INFO - Started process (PID=14992) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:21:15,630] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:21:15,630] {logging_mixin.py:115} INFO - [2022-06-28 18:21:15,630] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:21:15,880] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:21:15,890] {logging_mixin.py:115} INFO - [2022-06-28 18:21:15,889] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:21:15,902] {logging_mixin.py:115} INFO - [2022-06-28 18:21:15,902] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:20:51.072773+00:00, run_after=2022-06-28T16:21:51.072773+00:00
+[2022-06-28 18:21:15,926] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.305 seconds
+[2022-06-28 18:21:29,661] {processor.py:153} INFO - Started process (PID=15006) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:21:29,662] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:21:29,662] {logging_mixin.py:115} INFO - [2022-06-28 18:21:29,662] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:21:29,950] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:21:29,960] {logging_mixin.py:115} INFO - [2022-06-28 18:21:29,960] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:21:29,972] {logging_mixin.py:115} INFO - [2022-06-28 18:21:29,972] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:20:51.072773+00:00, run_after=2022-06-28T16:21:51.072773+00:00
+[2022-06-28 18:21:29,998] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.341 seconds
+[2022-06-28 18:21:40,357] {processor.py:153} INFO - Started process (PID=15016) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:21:40,357] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:21:40,358] {logging_mixin.py:115} INFO - [2022-06-28 18:21:40,358] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:21:40,638] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:21:40,648] {logging_mixin.py:115} INFO - [2022-06-28 18:21:40,648] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:21:40,667] {logging_mixin.py:115} INFO - [2022-06-28 18:21:40,667] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:20:51.072773+00:00, run_after=2022-06-28T16:21:51.072773+00:00
+[2022-06-28 18:21:40,701] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.347 seconds
+[2022-06-28 18:21:51,243] {processor.py:153} INFO - Started process (PID=15027) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:21:51,245] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:21:51,246] {logging_mixin.py:115} INFO - [2022-06-28 18:21:51,245] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:21:51,538] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:21:51,568] {logging_mixin.py:115} INFO - [2022-06-28 18:21:51,568] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:21:51,579] {logging_mixin.py:115} INFO - [2022-06-28 18:21:51,579] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:20:51.072773+00:00, run_after=2022-06-28T16:21:51.072773+00:00
+[2022-06-28 18:21:51,645] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.408 seconds
+[2022-06-28 18:22:06,397] {processor.py:153} INFO - Started process (PID=15088) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:22:06,398] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:22:06,399] {logging_mixin.py:115} INFO - [2022-06-28 18:22:06,399] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:22:06,726] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:22:06,731] {logging_mixin.py:115} INFO - [2022-06-28 18:22:06,731] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:22:06,742] {logging_mixin.py:115} INFO - [2022-06-28 18:22:06,742] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:21:51.072773+00:00, run_after=2022-06-28T16:22:51.072773+00:00
+[2022-06-28 18:22:06,770] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.380 seconds
+[2022-06-28 18:22:19,488] {processor.py:153} INFO - Started process (PID=15101) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:22:19,489] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:22:19,489] {logging_mixin.py:115} INFO - [2022-06-28 18:22:19,489] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:22:19,804] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:22:19,808] {logging_mixin.py:115} INFO - [2022-06-28 18:22:19,808] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:22:19,822] {logging_mixin.py:115} INFO - [2022-06-28 18:22:19,822] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:21:51.072773+00:00, run_after=2022-06-28T16:22:51.072773+00:00
+[2022-06-28 18:22:19,852] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.369 seconds
+[2022-06-28 18:22:34,378] {processor.py:153} INFO - Started process (PID=15115) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:22:34,419] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:22:34,420] {logging_mixin.py:115} INFO - [2022-06-28 18:22:34,420] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:22:34,732] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:22:34,740] {logging_mixin.py:115} INFO - [2022-06-28 18:22:34,740] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:22:34,751] {logging_mixin.py:115} INFO - [2022-06-28 18:22:34,751] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:21:51.072773+00:00, run_after=2022-06-28T16:22:51.072773+00:00
+[2022-06-28 18:22:34,817] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.444 seconds
+[2022-06-28 18:22:45,862] {processor.py:153} INFO - Started process (PID=15127) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:22:45,863] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:22:45,864] {logging_mixin.py:115} INFO - [2022-06-28 18:22:45,864] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:22:46,196] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:22:46,214] {logging_mixin.py:115} INFO - [2022-06-28 18:22:46,214] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:22:46,241] {logging_mixin.py:115} INFO - [2022-06-28 18:22:46,241] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:21:51.072773+00:00, run_after=2022-06-28T16:22:51.072773+00:00
+[2022-06-28 18:22:46,316] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.460 seconds
+[2022-06-28 18:23:00,863] {processor.py:153} INFO - Started process (PID=15173) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:23:00,864] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:23:00,865] {logging_mixin.py:115} INFO - [2022-06-28 18:23:00,864] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:23:01,216] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:23:01,245] {logging_mixin.py:115} INFO - [2022-06-28 18:23:01,245] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:23:01,254] {logging_mixin.py:115} INFO - [2022-06-28 18:23:01,254] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:22:51.072773+00:00, run_after=2022-06-28T16:23:51.072773+00:00
+[2022-06-28 18:23:01,282] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.425 seconds
+[2022-06-28 18:23:15,023] {processor.py:153} INFO - Started process (PID=15221) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:23:15,040] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:23:15,042] {logging_mixin.py:115} INFO - [2022-06-28 18:23:15,041] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:23:15,383] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:23:15,387] {logging_mixin.py:115} INFO - [2022-06-28 18:23:15,387] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:23:15,399] {logging_mixin.py:115} INFO - [2022-06-28 18:23:15,399] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:22:51.072773+00:00, run_after=2022-06-28T16:23:51.072773+00:00
+[2022-06-28 18:23:15,422] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.404 seconds
+[2022-06-28 18:23:32,529] {processor.py:153} INFO - Started process (PID=15252) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:23:32,529] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:23:32,530] {logging_mixin.py:115} INFO - [2022-06-28 18:23:32,529] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:23:32,824] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:23:32,835] {logging_mixin.py:115} INFO - [2022-06-28 18:23:32,835] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:23:32,849] {logging_mixin.py:115} INFO - [2022-06-28 18:23:32,849] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:22:51.072773+00:00, run_after=2022-06-28T16:23:51.072773+00:00
+[2022-06-28 18:23:32,871] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.346 seconds
+[2022-06-28 18:23:47,074] {processor.py:153} INFO - Started process (PID=15298) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:23:47,075] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:23:47,077] {logging_mixin.py:115} INFO - [2022-06-28 18:23:47,076] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:23:47,395] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:23:47,404] {logging_mixin.py:115} INFO - [2022-06-28 18:23:47,404] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:23:47,416] {logging_mixin.py:115} INFO - [2022-06-28 18:23:47,416] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:22:51.072773+00:00, run_after=2022-06-28T16:23:51.072773+00:00
+[2022-06-28 18:23:47,445] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.376 seconds
+[2022-06-28 18:24:05,741] {processor.py:153} INFO - Started process (PID=15347) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:24:05,755] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:24:05,756] {logging_mixin.py:115} INFO - [2022-06-28 18:24:05,756] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:24:06,063] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:24:06,117] {logging_mixin.py:115} INFO - [2022-06-28 18:24:06,117] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:24:06,134] {logging_mixin.py:115} INFO - [2022-06-28 18:24:06,134] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:23:51.072773+00:00, run_after=2022-06-28T16:24:51.072773+00:00
+[2022-06-28 18:24:06,181] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.446 seconds
+[2022-06-28 18:24:18,736] {processor.py:153} INFO - Started process (PID=15360) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:24:18,736] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:24:18,737] {logging_mixin.py:115} INFO - [2022-06-28 18:24:18,737] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:24:19,049] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:24:19,056] {logging_mixin.py:115} INFO - [2022-06-28 18:24:19,055] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:24:19,075] {logging_mixin.py:115} INFO - [2022-06-28 18:24:19,075] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:23:51.072773+00:00, run_after=2022-06-28T16:24:51.072773+00:00
+[2022-06-28 18:24:19,132] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.400 seconds
+[2022-06-28 18:24:32,456] {processor.py:153} INFO - Started process (PID=15373) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:24:32,459] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:24:32,460] {logging_mixin.py:115} INFO - [2022-06-28 18:24:32,460] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:24:32,762] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:24:32,768] {logging_mixin.py:115} INFO - [2022-06-28 18:24:32,768] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:24:32,781] {logging_mixin.py:115} INFO - [2022-06-28 18:24:32,781] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:23:51.072773+00:00, run_after=2022-06-28T16:24:51.072773+00:00
+[2022-06-28 18:24:32,811] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.362 seconds
+[2022-06-28 18:24:43,159] {processor.py:153} INFO - Started process (PID=15384) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:24:43,195] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:24:43,196] {logging_mixin.py:115} INFO - [2022-06-28 18:24:43,196] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:24:43,492] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:24:43,534] {logging_mixin.py:115} INFO - [2022-06-28 18:24:43,534] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:24:43,545] {logging_mixin.py:115} INFO - [2022-06-28 18:24:43,545] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:23:51.072773+00:00, run_after=2022-06-28T16:24:51.072773+00:00
+[2022-06-28 18:24:43,610] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.458 seconds
+[2022-06-28 18:24:57,688] {processor.py:153} INFO - Started process (PID=15429) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:24:57,689] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:24:57,690] {logging_mixin.py:115} INFO - [2022-06-28 18:24:57,690] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:24:58,063] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:24:58,067] {logging_mixin.py:115} INFO - [2022-06-28 18:24:58,067] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:24:58,079] {logging_mixin.py:115} INFO - [2022-06-28 18:24:58,079] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:24:51.072773+00:00, run_after=2022-06-28T16:25:51.072773+00:00
+[2022-06-28 18:24:58,110] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.428 seconds
+[2022-06-28 18:25:12,026] {processor.py:153} INFO - Started process (PID=15444) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:25:12,029] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:25:12,030] {logging_mixin.py:115} INFO - [2022-06-28 18:25:12,029] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:25:12,309] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:25:12,314] {logging_mixin.py:115} INFO - [2022-06-28 18:25:12,314] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:25:12,325] {logging_mixin.py:115} INFO - [2022-06-28 18:25:12,325] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:24:51.072773+00:00, run_after=2022-06-28T16:25:51.072773+00:00
+[2022-06-28 18:25:12,392] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.372 seconds
+[2022-06-28 18:25:26,580] {processor.py:153} INFO - Started process (PID=15457) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:25:26,581] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:25:26,582] {logging_mixin.py:115} INFO - [2022-06-28 18:25:26,582] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:25:26,875] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:25:26,903] {logging_mixin.py:115} INFO - [2022-06-28 18:25:26,903] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:25:26,914] {logging_mixin.py:115} INFO - [2022-06-28 18:25:26,914] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:24:51.072773+00:00, run_after=2022-06-28T16:25:51.072773+00:00
+[2022-06-28 18:25:26,932] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.359 seconds
+[2022-06-28 18:25:37,377] {processor.py:153} INFO - Started process (PID=15467) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:25:37,378] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:25:37,379] {logging_mixin.py:115} INFO - [2022-06-28 18:25:37,379] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:25:37,663] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:25:37,669] {logging_mixin.py:115} INFO - [2022-06-28 18:25:37,669] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:25:37,685] {logging_mixin.py:115} INFO - [2022-06-28 18:25:37,684] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:24:51.072773+00:00, run_after=2022-06-28T16:25:51.072773+00:00
+[2022-06-28 18:25:37,702] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.330 seconds
+[2022-06-28 18:25:46,544] {processor.py:153} INFO - Started process (PID=15477) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:25:46,547] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:25:46,548] {logging_mixin.py:115} INFO - [2022-06-28 18:25:46,548] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:25:46,832] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:25:46,837] {logging_mixin.py:115} INFO - [2022-06-28 18:25:46,837] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:25:46,849] {logging_mixin.py:115} INFO - [2022-06-28 18:25:46,848] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:24:51.072773+00:00, run_after=2022-06-28T16:25:51.072773+00:00
+[2022-06-28 18:25:46,876] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.341 seconds
+[2022-06-28 18:25:59,519] {processor.py:153} INFO - Started process (PID=15522) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:25:59,520] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:25:59,521] {logging_mixin.py:115} INFO - [2022-06-28 18:25:59,521] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:25:59,809] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:25:59,818] {logging_mixin.py:115} INFO - [2022-06-28 18:25:59,818] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:25:59,831] {logging_mixin.py:115} INFO - [2022-06-28 18:25:59,831] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:25:51.072773+00:00, run_after=2022-06-28T16:26:51.072773+00:00
+[2022-06-28 18:25:59,901] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.385 seconds
+[2022-06-28 18:26:11,974] {processor.py:153} INFO - Started process (PID=15535) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:26:11,975] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:26:11,976] {logging_mixin.py:115} INFO - [2022-06-28 18:26:11,976] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:26:12,279] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:26:12,288] {logging_mixin.py:115} INFO - [2022-06-28 18:26:12,288] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:26:12,299] {logging_mixin.py:115} INFO - [2022-06-28 18:26:12,299] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:25:51.072773+00:00, run_after=2022-06-28T16:26:51.072773+00:00
+[2022-06-28 18:26:12,366] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.399 seconds
+[2022-06-28 18:26:24,797] {processor.py:153} INFO - Started process (PID=15547) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:26:24,798] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:26:24,799] {logging_mixin.py:115} INFO - [2022-06-28 18:26:24,799] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:26:25,085] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:26:25,093] {logging_mixin.py:115} INFO - [2022-06-28 18:26:25,093] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:26:25,105] {logging_mixin.py:115} INFO - [2022-06-28 18:26:25,105] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:25:51.072773+00:00, run_after=2022-06-28T16:26:51.072773+00:00
+[2022-06-28 18:26:25,172] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.381 seconds
+[2022-06-28 18:26:37,320] {processor.py:153} INFO - Started process (PID=15558) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:26:37,321] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:26:37,322] {logging_mixin.py:115} INFO - [2022-06-28 18:26:37,322] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:26:37,621] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:26:37,654] {logging_mixin.py:115} INFO - [2022-06-28 18:26:37,653] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:26:37,666] {logging_mixin.py:115} INFO - [2022-06-28 18:26:37,666] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:25:51.072773+00:00, run_after=2022-06-28T16:26:51.072773+00:00
+[2022-06-28 18:26:37,698] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.382 seconds
+[2022-06-28 18:26:47,663] {processor.py:153} INFO - Started process (PID=15568) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:26:47,703] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:26:47,705] {logging_mixin.py:115} INFO - [2022-06-28 18:26:47,705] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:26:48,043] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:26:48,048] {logging_mixin.py:115} INFO - [2022-06-28 18:26:48,048] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:26:48,060] {logging_mixin.py:115} INFO - [2022-06-28 18:26:48,060] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:25:51.072773+00:00, run_after=2022-06-28T16:26:51.072773+00:00
+[2022-06-28 18:26:48,124] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.467 seconds
+[2022-06-28 18:27:02,346] {processor.py:153} INFO - Started process (PID=15614) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:27:02,348] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:27:02,350] {logging_mixin.py:115} INFO - [2022-06-28 18:27:02,349] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:27:02,646] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:27:02,651] {logging_mixin.py:115} INFO - [2022-06-28 18:27:02,651] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:27:02,665] {logging_mixin.py:115} INFO - [2022-06-28 18:27:02,665] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:26:51.072773+00:00, run_after=2022-06-28T16:27:51.072773+00:00
+[2022-06-28 18:27:02,693] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.354 seconds
+[2022-06-28 18:27:16,755] {processor.py:153} INFO - Started process (PID=15629) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:27:16,756] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:27:16,757] {logging_mixin.py:115} INFO - [2022-06-28 18:27:16,757] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:27:17,078] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:27:17,105] {logging_mixin.py:115} INFO - [2022-06-28 18:27:17,105] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:27:17,115] {logging_mixin.py:115} INFO - [2022-06-28 18:27:17,115] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:26:51.072773+00:00, run_after=2022-06-28T16:27:51.072773+00:00
+[2022-06-28 18:27:17,150] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.400 seconds
+[2022-06-28 18:27:31,325] {processor.py:153} INFO - Started process (PID=15642) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:27:31,334] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:27:31,335] {logging_mixin.py:115} INFO - [2022-06-28 18:27:31,335] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:27:31,660] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:27:31,668] {logging_mixin.py:115} INFO - [2022-06-28 18:27:31,668] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:27:31,683] {logging_mixin.py:115} INFO - [2022-06-28 18:27:31,683] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:26:51.072773+00:00, run_after=2022-06-28T16:27:51.072773+00:00
+[2022-06-28 18:27:31,747] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.427 seconds
+[2022-06-28 18:27:43,029] {processor.py:153} INFO - Started process (PID=15653) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:27:43,030] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:27:43,031] {logging_mixin.py:115} INFO - [2022-06-28 18:27:43,031] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:27:43,319] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:27:43,324] {logging_mixin.py:115} INFO - [2022-06-28 18:27:43,324] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:27:43,335] {logging_mixin.py:115} INFO - [2022-06-28 18:27:43,335] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:26:51.072773+00:00, run_after=2022-06-28T16:27:51.072773+00:00
+[2022-06-28 18:27:43,355] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.332 seconds
+[2022-06-28 18:27:57,874] {processor.py:153} INFO - Started process (PID=15699) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:27:57,875] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:27:57,875] {logging_mixin.py:115} INFO - [2022-06-28 18:27:57,875] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:27:58,170] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:27:58,200] {logging_mixin.py:115} INFO - [2022-06-28 18:27:58,200] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:27:58,210] {logging_mixin.py:115} INFO - [2022-06-28 18:27:58,209] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:27:51.072773+00:00, run_after=2022-06-28T16:28:51.072773+00:00
+[2022-06-28 18:27:58,233] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.364 seconds
+[2022-06-28 18:28:14,565] {processor.py:153} INFO - Started process (PID=15715) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:28:14,606] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:28:14,607] {logging_mixin.py:115} INFO - [2022-06-28 18:28:14,607] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:28:14,925] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:28:14,931] {logging_mixin.py:115} INFO - [2022-06-28 18:28:14,930] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:28:14,945] {logging_mixin.py:115} INFO - [2022-06-28 18:28:14,944] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:27:51.072773+00:00, run_after=2022-06-28T16:28:51.072773+00:00
+[2022-06-28 18:28:14,973] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.416 seconds
+[2022-06-28 18:28:28,167] {processor.py:153} INFO - Started process (PID=15728) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:28:28,168] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:28:28,169] {logging_mixin.py:115} INFO - [2022-06-28 18:28:28,169] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:28:28,441] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:28:28,450] {logging_mixin.py:115} INFO - [2022-06-28 18:28:28,450] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:28:28,461] {logging_mixin.py:115} INFO - [2022-06-28 18:28:28,461] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:27:51.072773+00:00, run_after=2022-06-28T16:28:51.072773+00:00
+[2022-06-28 18:28:28,532] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.372 seconds
+[2022-06-28 18:28:37,090] {processor.py:153} INFO - Started process (PID=15739) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:28:37,091] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:28:37,092] {logging_mixin.py:115} INFO - [2022-06-28 18:28:37,092] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:28:37,370] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:28:37,379] {logging_mixin.py:115} INFO - [2022-06-28 18:28:37,379] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:28:37,390] {logging_mixin.py:115} INFO - [2022-06-28 18:28:37,390] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:27:51.072773+00:00, run_after=2022-06-28T16:28:51.072773+00:00
+[2022-06-28 18:28:37,412] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.328 seconds
+[2022-06-28 18:28:45,368] {processor.py:153} INFO - Started process (PID=15748) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:28:45,369] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:28:45,370] {logging_mixin.py:115} INFO - [2022-06-28 18:28:45,370] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:28:45,675] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:28:45,684] {logging_mixin.py:115} INFO - [2022-06-28 18:28:45,684] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:28:45,695] {logging_mixin.py:115} INFO - [2022-06-28 18:28:45,695] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:27:51.072773+00:00, run_after=2022-06-28T16:28:51.072773+00:00
+[2022-06-28 18:28:45,717] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.355 seconds
+[2022-06-28 18:28:58,433] {processor.py:153} INFO - Started process (PID=15795) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:28:58,435] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:28:58,435] {logging_mixin.py:115} INFO - [2022-06-28 18:28:58,435] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:28:58,727] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:28:58,736] {logging_mixin.py:115} INFO - [2022-06-28 18:28:58,735] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:28:58,747] {logging_mixin.py:115} INFO - [2022-06-28 18:28:58,747] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:28:51.072773+00:00, run_after=2022-06-28T16:29:51.072773+00:00
+[2022-06-28 18:28:58,769] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.340 seconds
+[2022-06-28 18:29:12,358] {processor.py:153} INFO - Started process (PID=15816) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:29:12,359] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:29:12,359] {logging_mixin.py:115} INFO - [2022-06-28 18:29:12,359] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:29:12,654] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:29:12,663] {logging_mixin.py:115} INFO - [2022-06-28 18:29:12,663] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:29:12,675] {logging_mixin.py:115} INFO - [2022-06-28 18:29:12,675] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:28:51.072773+00:00, run_after=2022-06-28T16:29:51.072773+00:00
+[2022-06-28 18:29:12,702] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.350 seconds
+[2022-06-28 18:29:26,399] {processor.py:153} INFO - Started process (PID=15828) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:29:26,400] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:29:26,401] {logging_mixin.py:115} INFO - [2022-06-28 18:29:26,401] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:29:26,687] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:29:26,696] {logging_mixin.py:115} INFO - [2022-06-28 18:29:26,696] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:29:26,707] {logging_mixin.py:115} INFO - [2022-06-28 18:29:26,707] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:28:51.072773+00:00, run_after=2022-06-28T16:29:51.072773+00:00
+[2022-06-28 18:29:26,726] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.333 seconds
+[2022-06-28 18:29:38,379] {processor.py:153} INFO - Started process (PID=15841) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:29:38,382] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:29:38,383] {logging_mixin.py:115} INFO - [2022-06-28 18:29:38,383] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:29:38,688] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:29:38,723] {logging_mixin.py:115} INFO - [2022-06-28 18:29:38,723] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:29:38,733] {logging_mixin.py:115} INFO - [2022-06-28 18:29:38,733] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:28:51.072773+00:00, run_after=2022-06-28T16:29:51.072773+00:00
+[2022-06-28 18:29:38,799] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.426 seconds
+[2022-06-28 18:29:48,828] {processor.py:153} INFO - Started process (PID=15851) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:29:48,829] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:29:48,831] {logging_mixin.py:115} INFO - [2022-06-28 18:29:48,830] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:29:49,142] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:29:49,146] {logging_mixin.py:115} INFO - [2022-06-28 18:29:49,146] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:29:49,158] {logging_mixin.py:115} INFO - [2022-06-28 18:29:49,158] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:28:51.072773+00:00, run_after=2022-06-28T16:29:51.072773+00:00
+[2022-06-28 18:29:49,206] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.384 seconds
+[2022-06-28 18:30:01,879] {processor.py:153} INFO - Started process (PID=15896) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:30:01,880] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:30:01,880] {logging_mixin.py:115} INFO - [2022-06-28 18:30:01,880] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:30:02,168] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:30:02,173] {logging_mixin.py:115} INFO - [2022-06-28 18:30:02,173] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:30:02,187] {logging_mixin.py:115} INFO - [2022-06-28 18:30:02,187] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:29:51.072773+00:00, run_after=2022-06-28T16:30:51.072773+00:00
+[2022-06-28 18:30:02,253] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.381 seconds
+[2022-06-28 18:30:16,408] {processor.py:153} INFO - Started process (PID=15910) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:30:16,448] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:30:16,449] {logging_mixin.py:115} INFO - [2022-06-28 18:30:16,449] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:30:16,752] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:30:16,782] {logging_mixin.py:115} INFO - [2022-06-28 18:30:16,782] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:30:16,792] {logging_mixin.py:115} INFO - [2022-06-28 18:30:16,792] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:29:51.072773+00:00, run_after=2022-06-28T16:30:51.072773+00:00
+[2022-06-28 18:30:16,858] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.456 seconds
+[2022-06-28 18:30:30,955] {processor.py:153} INFO - Started process (PID=15957) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:30:30,956] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:30:30,957] {logging_mixin.py:115} INFO - [2022-06-28 18:30:30,957] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:30:31,256] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:30:31,261] {logging_mixin.py:115} INFO - [2022-06-28 18:30:31,261] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:30:31,273] {logging_mixin.py:115} INFO - [2022-06-28 18:30:31,273] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:29:51.072773+00:00, run_after=2022-06-28T16:30:51.072773+00:00
+[2022-06-28 18:30:31,340] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.391 seconds
+[2022-06-28 18:30:42,656] {processor.py:153} INFO - Started process (PID=15968) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:30:42,656] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:30:42,657] {logging_mixin.py:115} INFO - [2022-06-28 18:30:42,657] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:30:42,940] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:30:42,946] {logging_mixin.py:115} INFO - [2022-06-28 18:30:42,945] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:30:42,963] {logging_mixin.py:115} INFO - [2022-06-28 18:30:42,962] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:29:51.072773+00:00, run_after=2022-06-28T16:30:51.072773+00:00
+[2022-06-28 18:30:42,987] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.335 seconds
+[2022-06-28 18:30:59,597] {processor.py:153} INFO - Started process (PID=16030) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:30:59,637] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:30:59,638] {logging_mixin.py:115} INFO - [2022-06-28 18:30:59,638] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:30:59,935] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:30:59,946] {logging_mixin.py:115} INFO - [2022-06-28 18:30:59,946] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:30:59,958] {logging_mixin.py:115} INFO - [2022-06-28 18:30:59,958] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:30:51.072773+00:00, run_after=2022-06-28T16:31:51.072773+00:00
+[2022-06-28 18:30:59,987] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.397 seconds
+[2022-06-28 18:31:15,698] {processor.py:153} INFO - Started process (PID=16046) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:31:15,699] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:31:15,700] {logging_mixin.py:115} INFO - [2022-06-28 18:31:15,700] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:31:16,003] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:31:16,013] {logging_mixin.py:115} INFO - [2022-06-28 18:31:16,013] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:31:16,026] {logging_mixin.py:115} INFO - [2022-06-28 18:31:16,026] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:30:51.072773+00:00, run_after=2022-06-28T16:31:51.072773+00:00
+[2022-06-28 18:31:16,048] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.356 seconds
+[2022-06-28 18:31:29,934] {processor.py:153} INFO - Started process (PID=16059) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:31:29,935] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:31:29,935] {logging_mixin.py:115} INFO - [2022-06-28 18:31:29,935] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:31:30,231] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:31:30,240] {logging_mixin.py:115} INFO - [2022-06-28 18:31:30,240] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:31:30,252] {logging_mixin.py:115} INFO - [2022-06-28 18:31:30,251] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:30:51.072773+00:00, run_after=2022-06-28T16:31:51.072773+00:00
+[2022-06-28 18:31:30,321] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.390 seconds
+[2022-06-28 18:31:39,293] {processor.py:153} INFO - Started process (PID=16070) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:31:39,294] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:31:39,295] {logging_mixin.py:115} INFO - [2022-06-28 18:31:39,295] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:31:39,640] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:31:39,650] {logging_mixin.py:115} INFO - [2022-06-28 18:31:39,650] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:31:39,664] {logging_mixin.py:115} INFO - [2022-06-28 18:31:39,664] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:30:51.072773+00:00, run_after=2022-06-28T16:31:51.072773+00:00
+[2022-06-28 18:31:39,687] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.400 seconds
+[2022-06-28 18:31:49,684] {processor.py:153} INFO - Started process (PID=16080) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:31:49,684] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:31:49,685] {logging_mixin.py:115} INFO - [2022-06-28 18:31:49,684] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:31:49,967] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:31:49,976] {logging_mixin.py:115} INFO - [2022-06-28 18:31:49,976] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:31:49,988] {logging_mixin.py:115} INFO - [2022-06-28 18:31:49,988] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:30:51.072773+00:00, run_after=2022-06-28T16:31:51.072773+00:00
+[2022-06-28 18:31:50,010] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.331 seconds
+[2022-06-28 18:32:04,938] {processor.py:153} INFO - Started process (PID=16127) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:32:04,975] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:32:04,976] {logging_mixin.py:115} INFO - [2022-06-28 18:32:04,976] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:32:05,282] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:32:05,292] {logging_mixin.py:115} INFO - [2022-06-28 18:32:05,292] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:32:05,304] {logging_mixin.py:115} INFO - [2022-06-28 18:32:05,303] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:31:51.072773+00:00, run_after=2022-06-28T16:32:51.072773+00:00
+[2022-06-28 18:32:05,329] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.398 seconds
+[2022-06-28 18:32:21,244] {processor.py:153} INFO - Started process (PID=17961) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:32:21,285] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:32:21,286] {logging_mixin.py:115} INFO - [2022-06-28 18:32:21,286] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:32:21,569] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:32:21,600] {logging_mixin.py:115} INFO - [2022-06-28 18:32:21,599] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:32:21,610] {logging_mixin.py:115} INFO - [2022-06-28 18:32:21,610] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:31:51.072773+00:00, run_after=2022-06-28T16:32:51.072773+00:00
+[2022-06-28 18:32:21,633] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.395 seconds
+[2022-06-28 18:32:34,103] {processor.py:153} INFO - Started process (PID=17973) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:32:34,104] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:32:34,105] {logging_mixin.py:115} INFO - [2022-06-28 18:32:34,105] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:32:34,400] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:32:34,404] {logging_mixin.py:115} INFO - [2022-06-28 18:32:34,404] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:32:34,417] {logging_mixin.py:115} INFO - [2022-06-28 18:32:34,416] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:31:51.072773+00:00, run_after=2022-06-28T16:32:51.072773+00:00
+[2022-06-28 18:32:34,483] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.385 seconds
+[2022-06-28 18:32:44,811] {processor.py:153} INFO - Started process (PID=17985) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:32:44,813] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:32:44,814] {logging_mixin.py:115} INFO - [2022-06-28 18:32:44,814] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:32:45,110] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:32:45,115] {logging_mixin.py:115} INFO - [2022-06-28 18:32:45,115] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:32:45,131] {logging_mixin.py:115} INFO - [2022-06-28 18:32:45,131] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:31:51.072773+00:00, run_after=2022-06-28T16:32:51.072773+00:00
+[2022-06-28 18:32:45,154] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.349 seconds
+[2022-06-28 18:32:57,120] {processor.py:153} INFO - Started process (PID=18942) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:32:57,121] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:32:57,122] {logging_mixin.py:115} INFO - [2022-06-28 18:32:57,122] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:32:57,387] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:32:57,397] {logging_mixin.py:115} INFO - [2022-06-28 18:32:57,397] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:32:57,410] {logging_mixin.py:115} INFO - [2022-06-28 18:32:57,410] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:32:51.072773+00:00, run_after=2022-06-28T16:33:51.072773+00:00
+[2022-06-28 18:32:57,430] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.314 seconds
+[2022-06-28 18:33:10,244] {processor.py:153} INFO - Started process (PID=18956) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:33:10,245] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:33:10,246] {logging_mixin.py:115} INFO - [2022-06-28 18:33:10,245] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:33:10,535] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:33:10,545] {logging_mixin.py:115} INFO - [2022-06-28 18:33:10,545] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:33:10,559] {logging_mixin.py:115} INFO - [2022-06-28 18:33:10,559] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:32:51.072773+00:00, run_after=2022-06-28T16:33:51.072773+00:00
+[2022-06-28 18:33:10,582] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.343 seconds
+[2022-06-28 18:33:22,037] {processor.py:153} INFO - Started process (PID=19814) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:33:22,038] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:33:22,038] {logging_mixin.py:115} INFO - [2022-06-28 18:33:22,038] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:33:22,404] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:33:22,415] {logging_mixin.py:115} INFO - [2022-06-28 18:33:22,415] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:33:22,427] {logging_mixin.py:115} INFO - [2022-06-28 18:33:22,427] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:32:51.072773+00:00, run_after=2022-06-28T16:33:51.072773+00:00
+[2022-06-28 18:33:22,489] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.456 seconds
+[2022-06-28 18:33:34,716] {processor.py:153} INFO - Started process (PID=20810) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:33:34,716] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:33:34,717] {logging_mixin.py:115} INFO - [2022-06-28 18:33:34,717] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:33:34,988] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:33:34,998] {logging_mixin.py:115} INFO - [2022-06-28 18:33:34,998] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:33:35,011] {logging_mixin.py:115} INFO - [2022-06-28 18:33:35,011] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:32:51.072773+00:00, run_after=2022-06-28T16:33:51.072773+00:00
+[2022-06-28 18:33:35,039] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.326 seconds
+[2022-06-28 18:33:42,648] {processor.py:153} INFO - Started process (PID=20824) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:33:42,649] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:33:42,650] {logging_mixin.py:115} INFO - [2022-06-28 18:33:42,649] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:33:42,940] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:33:42,975] {logging_mixin.py:115} INFO - [2022-06-28 18:33:42,975] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:33:42,990] {logging_mixin.py:115} INFO - [2022-06-28 18:33:42,990] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:32:51.072773+00:00, run_after=2022-06-28T16:33:51.072773+00:00
+[2022-06-28 18:33:43,061] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.420 seconds
+[2022-06-28 18:33:51,928] {processor.py:153} INFO - Started process (PID=20832) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:33:51,928] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:33:51,929] {logging_mixin.py:115} INFO - [2022-06-28 18:33:51,929] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:33:52,241] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:33:52,246] {logging_mixin.py:115} INFO - [2022-06-28 18:33:52,246] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:33:52,260] {logging_mixin.py:115} INFO - [2022-06-28 18:33:52,260] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:32:51.072773+00:00, run_after=2022-06-28T16:33:51.072773+00:00
+[2022-06-28 18:33:52,284] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.360 seconds
+[2022-06-28 18:34:08,557] {processor.py:153} INFO - Started process (PID=20880) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:34:08,598] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:34:08,600] {logging_mixin.py:115} INFO - [2022-06-28 18:34:08,599] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:34:08,910] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:34:08,917] {logging_mixin.py:115} INFO - [2022-06-28 18:34:08,917] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:34:08,929] {logging_mixin.py:115} INFO - [2022-06-28 18:34:08,929] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:33:51.072773+00:00, run_after=2022-06-28T16:34:51.072773+00:00
+[2022-06-28 18:34:08,951] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.401 seconds
+[2022-06-28 18:34:25,411] {processor.py:153} INFO - Started process (PID=20897) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:34:25,412] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:34:25,413] {logging_mixin.py:115} INFO - [2022-06-28 18:34:25,413] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:34:25,708] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:34:25,735] {logging_mixin.py:115} INFO - [2022-06-28 18:34:25,735] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:34:25,745] {logging_mixin.py:115} INFO - [2022-06-28 18:34:25,745] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:33:51.072773+00:00, run_after=2022-06-28T16:34:51.072773+00:00
+[2022-06-28 18:34:25,811] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.406 seconds
+[2022-06-28 18:34:37,512] {processor.py:153} INFO - Started process (PID=20908) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:34:37,512] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:34:37,513] {logging_mixin.py:115} INFO - [2022-06-28 18:34:37,513] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:34:37,802] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:34:37,807] {logging_mixin.py:115} INFO - [2022-06-28 18:34:37,807] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:34:37,819] {logging_mixin.py:115} INFO - [2022-06-28 18:34:37,819] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:33:51.072773+00:00, run_after=2022-06-28T16:34:51.072773+00:00
+[2022-06-28 18:34:37,845] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.340 seconds
+[2022-06-28 18:34:48,169] {processor.py:153} INFO - Started process (PID=20919) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:34:48,201] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:34:48,202] {logging_mixin.py:115} INFO - [2022-06-28 18:34:48,202] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:34:48,541] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:34:48,546] {logging_mixin.py:115} INFO - [2022-06-28 18:34:48,546] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:34:48,561] {logging_mixin.py:115} INFO - [2022-06-28 18:34:48,561] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:33:51.072773+00:00, run_after=2022-06-28T16:34:51.072773+00:00
+[2022-06-28 18:34:48,609] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.447 seconds
+[2022-06-28 18:35:02,719] {processor.py:153} INFO - Started process (PID=20965) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:35:02,733] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:35:02,734] {logging_mixin.py:115} INFO - [2022-06-28 18:35:02,734] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:35:03,029] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:35:03,059] {logging_mixin.py:115} INFO - [2022-06-28 18:35:03,059] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:35:03,072] {logging_mixin.py:115} INFO - [2022-06-28 18:35:03,071] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:34:51.072773+00:00, run_after=2022-06-28T16:35:51.072773+00:00
+[2022-06-28 18:35:03,098] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.383 seconds
+[2022-06-28 18:35:16,016] {processor.py:153} INFO - Started process (PID=20979) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:35:16,017] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:35:16,018] {logging_mixin.py:115} INFO - [2022-06-28 18:35:16,018] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:35:16,365] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:35:16,370] {logging_mixin.py:115} INFO - [2022-06-28 18:35:16,370] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:35:16,383] {logging_mixin.py:115} INFO - [2022-06-28 18:35:16,383] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:34:51.072773+00:00, run_after=2022-06-28T16:35:51.072773+00:00
+[2022-06-28 18:35:16,447] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.437 seconds
+[2022-06-28 18:35:30,128] {processor.py:153} INFO - Started process (PID=20991) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:35:30,129] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:35:30,130] {logging_mixin.py:115} INFO - [2022-06-28 18:35:30,130] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:35:30,432] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:35:30,437] {logging_mixin.py:115} INFO - [2022-06-28 18:35:30,437] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:35:30,450] {logging_mixin.py:115} INFO - [2022-06-28 18:35:30,450] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:34:51.072773+00:00, run_after=2022-06-28T16:35:51.072773+00:00
+[2022-06-28 18:35:30,469] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.348 seconds
+[2022-06-28 18:35:39,598] {processor.py:153} INFO - Started process (PID=21000) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:35:39,600] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:35:39,601] {logging_mixin.py:115} INFO - [2022-06-28 18:35:39,601] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:35:39,897] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:35:39,906] {logging_mixin.py:115} INFO - [2022-06-28 18:35:39,906] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:35:39,917] {logging_mixin.py:115} INFO - [2022-06-28 18:35:39,917] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:34:51.072773+00:00, run_after=2022-06-28T16:35:51.072773+00:00
+[2022-06-28 18:35:39,938] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.346 seconds
+[2022-06-28 18:35:48,808] {processor.py:153} INFO - Started process (PID=21010) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:35:48,809] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:35:48,810] {logging_mixin.py:115} INFO - [2022-06-28 18:35:48,809] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:35:49,097] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:35:49,106] {logging_mixin.py:115} INFO - [2022-06-28 18:35:49,106] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:35:49,118] {logging_mixin.py:115} INFO - [2022-06-28 18:35:49,118] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:34:51.072773+00:00, run_after=2022-06-28T16:35:51.072773+00:00
+[2022-06-28 18:35:49,140] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.338 seconds
+[2022-06-28 18:36:02,411] {processor.py:153} INFO - Started process (PID=21055) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:36:02,412] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:36:02,412] {logging_mixin.py:115} INFO - [2022-06-28 18:36:02,412] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:36:02,692] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:36:02,700] {logging_mixin.py:115} INFO - [2022-06-28 18:36:02,700] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:36:02,714] {logging_mixin.py:115} INFO - [2022-06-28 18:36:02,713] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:35:51.072773+00:00, run_after=2022-06-28T16:36:51.072773+00:00
+[2022-06-28 18:36:02,797] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.393 seconds
+[2022-06-28 18:36:16,799] {processor.py:153} INFO - Started process (PID=21069) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:36:16,836] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:36:16,837] {logging_mixin.py:115} INFO - [2022-06-28 18:36:16,837] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:36:17,191] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:36:17,200] {logging_mixin.py:115} INFO - [2022-06-28 18:36:17,200] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:36:17,218] {logging_mixin.py:115} INFO - [2022-06-28 18:36:17,217] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:35:51.072773+00:00, run_after=2022-06-28T16:36:51.072773+00:00
+[2022-06-28 18:36:17,250] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.456 seconds
+[2022-06-28 18:36:31,123] {processor.py:153} INFO - Started process (PID=21082) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:36:31,124] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:36:31,125] {logging_mixin.py:115} INFO - [2022-06-28 18:36:31,125] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:36:31,406] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:36:31,415] {logging_mixin.py:115} INFO - [2022-06-28 18:36:31,415] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:36:31,427] {logging_mixin.py:115} INFO - [2022-06-28 18:36:31,427] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:35:51.072773+00:00, run_after=2022-06-28T16:36:51.072773+00:00
+[2022-06-28 18:36:31,449] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.332 seconds
+[2022-06-28 18:36:41,905] {processor.py:153} INFO - Started process (PID=21092) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:36:41,906] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:36:41,906] {logging_mixin.py:115} INFO - [2022-06-28 18:36:41,906] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:36:42,184] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:36:42,193] {logging_mixin.py:115} INFO - [2022-06-28 18:36:42,193] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:36:42,205] {logging_mixin.py:115} INFO - [2022-06-28 18:36:42,204] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:35:51.072773+00:00, run_after=2022-06-28T16:36:51.072773+00:00
+[2022-06-28 18:36:42,230] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.331 seconds
+[2022-06-28 18:36:55,547] {processor.py:153} INFO - Started process (PID=21122) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:36:55,549] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:36:55,550] {logging_mixin.py:115} INFO - [2022-06-28 18:36:55,550] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:36:55,871] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:36:55,880] {logging_mixin.py:115} INFO - [2022-06-28 18:36:55,880] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:36:55,893] {logging_mixin.py:115} INFO - [2022-06-28 18:36:55,893] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:36:51.072773+00:00, run_after=2022-06-28T16:37:51.072773+00:00
+[2022-06-28 18:36:55,959] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.421 seconds
+[2022-06-28 18:37:10,546] {processor.py:153} INFO - Started process (PID=21152) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:37:10,547] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:37:10,548] {logging_mixin.py:115} INFO - [2022-06-28 18:37:10,548] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:37:10,893] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:37:10,903] {logging_mixin.py:115} INFO - [2022-06-28 18:37:10,903] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:37:10,915] {logging_mixin.py:115} INFO - [2022-06-28 18:37:10,915] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:36:51.072773+00:00, run_after=2022-06-28T16:37:51.072773+00:00
+[2022-06-28 18:37:10,980] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.440 seconds
+[2022-06-28 18:37:25,347] {processor.py:153} INFO - Started process (PID=21167) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:37:25,348] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:37:25,348] {logging_mixin.py:115} INFO - [2022-06-28 18:37:25,348] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:37:25,667] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:37:25,675] {logging_mixin.py:115} INFO - [2022-06-28 18:37:25,675] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:37:25,688] {logging_mixin.py:115} INFO - [2022-06-28 18:37:25,688] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:36:51.072773+00:00, run_after=2022-06-28T16:37:51.072773+00:00
+[2022-06-28 18:37:25,709] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.365 seconds
+[2022-06-28 18:37:36,133] {processor.py:153} INFO - Started process (PID=21178) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:37:36,184] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:37:36,185] {logging_mixin.py:115} INFO - [2022-06-28 18:37:36,185] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:37:36,471] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:37:36,480] {logging_mixin.py:115} INFO - [2022-06-28 18:37:36,479] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:37:36,491] {logging_mixin.py:115} INFO - [2022-06-28 18:37:36,491] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:36:51.072773+00:00, run_after=2022-06-28T16:37:51.072773+00:00
+[2022-06-28 18:37:36,510] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.381 seconds
+[2022-06-28 18:37:46,261] {processor.py:153} INFO - Started process (PID=21188) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:37:46,262] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:37:46,263] {logging_mixin.py:115} INFO - [2022-06-28 18:37:46,263] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:37:46,564] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:37:46,575] {logging_mixin.py:115} INFO - [2022-06-28 18:37:46,575] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:37:46,593] {logging_mixin.py:115} INFO - [2022-06-28 18:37:46,593] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:36:51.072773+00:00, run_after=2022-06-28T16:37:51.072773+00:00
+[2022-06-28 18:37:46,617] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.362 seconds
+[2022-06-28 18:38:00,705] {processor.py:153} INFO - Started process (PID=21233) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:38:00,707] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:38:00,708] {logging_mixin.py:115} INFO - [2022-06-28 18:38:00,708] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:38:01,069] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:38:01,080] {logging_mixin.py:115} INFO - [2022-06-28 18:38:01,080] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:38:01,093] {logging_mixin.py:115} INFO - [2022-06-28 18:38:01,093] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:37:51.072773+00:00, run_after=2022-06-28T16:38:51.072773+00:00
+[2022-06-28 18:38:01,117] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.418 seconds
+[2022-06-28 18:38:15,570] {processor.py:153} INFO - Started process (PID=21248) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:38:15,571] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:38:15,572] {logging_mixin.py:115} INFO - [2022-06-28 18:38:15,572] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:38:15,900] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:38:15,909] {logging_mixin.py:115} INFO - [2022-06-28 18:38:15,909] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:38:15,922] {logging_mixin.py:115} INFO - [2022-06-28 18:38:15,921] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:37:51.072773+00:00, run_after=2022-06-28T16:38:51.072773+00:00
+[2022-06-28 18:38:15,988] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.424 seconds
+[2022-06-28 18:38:29,839] {processor.py:153} INFO - Started process (PID=21262) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:38:29,840] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:38:29,841] {logging_mixin.py:115} INFO - [2022-06-28 18:38:29,840] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:38:30,130] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:38:30,139] {logging_mixin.py:115} INFO - [2022-06-28 18:38:30,139] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:38:30,151] {logging_mixin.py:115} INFO - [2022-06-28 18:38:30,151] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:37:51.072773+00:00, run_after=2022-06-28T16:38:51.072773+00:00
+[2022-06-28 18:38:30,194] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.362 seconds
+[2022-06-28 18:38:39,995] {processor.py:153} INFO - Started process (PID=21271) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:38:39,996] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:38:39,998] {logging_mixin.py:115} INFO - [2022-06-28 18:38:39,998] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:38:40,301] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:38:40,330] {logging_mixin.py:115} INFO - [2022-06-28 18:38:40,330] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:38:40,340] {logging_mixin.py:115} INFO - [2022-06-28 18:38:40,340] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:37:51.072773+00:00, run_after=2022-06-28T16:38:51.072773+00:00
+[2022-06-28 18:38:40,368] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.380 seconds
+[2022-06-28 18:38:48,986] {processor.py:153} INFO - Started process (PID=21281) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:38:48,986] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:38:48,987] {logging_mixin.py:115} INFO - [2022-06-28 18:38:48,986] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:38:49,287] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:38:49,293] {logging_mixin.py:115} INFO - [2022-06-28 18:38:49,293] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:38:49,305] {logging_mixin.py:115} INFO - [2022-06-28 18:38:49,305] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:37:51.072773+00:00, run_after=2022-06-28T16:38:51.072773+00:00
+[2022-06-28 18:38:49,327] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.343 seconds
+[2022-06-28 18:39:00,934] {processor.py:153} INFO - Started process (PID=21326) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:39:00,934] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:39:00,935] {logging_mixin.py:115} INFO - [2022-06-28 18:39:00,935] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:39:01,204] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:39:01,210] {logging_mixin.py:115} INFO - [2022-06-28 18:39:01,210] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:39:01,223] {logging_mixin.py:115} INFO - [2022-06-28 18:39:01,223] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:38:51.072773+00:00, run_after=2022-06-28T16:39:51.072773+00:00
+[2022-06-28 18:39:01,282] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.351 seconds
+[2022-06-28 18:39:12,847] {processor.py:153} INFO - Started process (PID=21338) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:39:12,849] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:39:12,850] {logging_mixin.py:115} INFO - [2022-06-28 18:39:12,850] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:39:13,139] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:39:13,147] {logging_mixin.py:115} INFO - [2022-06-28 18:39:13,147] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:39:13,159] {logging_mixin.py:115} INFO - [2022-06-28 18:39:13,159] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:38:51.072773+00:00, run_after=2022-06-28T16:39:51.072773+00:00
+[2022-06-28 18:39:13,223] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.382 seconds
+[2022-06-28 18:39:24,560] {processor.py:153} INFO - Started process (PID=21349) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:39:24,599] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:39:24,601] {logging_mixin.py:115} INFO - [2022-06-28 18:39:24,600] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:39:24,971] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:39:24,999] {logging_mixin.py:115} INFO - [2022-06-28 18:39:24,999] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:39:25,009] {logging_mixin.py:115} INFO - [2022-06-28 18:39:25,009] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:38:51.072773+00:00, run_after=2022-06-28T16:39:51.072773+00:00
+[2022-06-28 18:39:25,032] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.479 seconds
+[2022-06-28 18:39:36,281] {processor.py:153} INFO - Started process (PID=21359) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:39:36,322] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:39:36,323] {logging_mixin.py:115} INFO - [2022-06-28 18:39:36,323] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:39:36,636] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:39:36,641] {logging_mixin.py:115} INFO - [2022-06-28 18:39:36,641] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:39:36,654] {logging_mixin.py:115} INFO - [2022-06-28 18:39:36,654] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:38:51.072773+00:00, run_after=2022-06-28T16:39:51.072773+00:00
+[2022-06-28 18:39:36,679] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.404 seconds
+[2022-06-28 18:39:48,071] {processor.py:153} INFO - Started process (PID=21370) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:39:48,072] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:39:48,072] {logging_mixin.py:115} INFO - [2022-06-28 18:39:48,072] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:39:48,377] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:39:48,382] {logging_mixin.py:115} INFO - [2022-06-28 18:39:48,382] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:39:48,394] {logging_mixin.py:115} INFO - [2022-06-28 18:39:48,394] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:38:51.072773+00:00, run_after=2022-06-28T16:39:51.072773+00:00
+[2022-06-28 18:39:48,460] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.393 seconds
+[2022-06-28 18:40:03,495] {processor.py:153} INFO - Started process (PID=21417) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:40:03,496] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:40:03,497] {logging_mixin.py:115} INFO - [2022-06-28 18:40:03,497] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:40:03,793] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:40:03,820] {logging_mixin.py:115} INFO - [2022-06-28 18:40:03,820] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:40:03,830] {logging_mixin.py:115} INFO - [2022-06-28 18:40:03,830] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:39:51.072773+00:00, run_after=2022-06-28T16:40:51.072773+00:00
+[2022-06-28 18:40:03,912] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.422 seconds
+[2022-06-28 18:40:19,195] {processor.py:153} INFO - Started process (PID=21432) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:40:19,198] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:40:19,199] {logging_mixin.py:115} INFO - [2022-06-28 18:40:19,199] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:40:19,583] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:40:19,592] {logging_mixin.py:115} INFO - [2022-06-28 18:40:19,592] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:40:19,614] {logging_mixin.py:115} INFO - [2022-06-28 18:40:19,614] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:39:51.072773+00:00, run_after=2022-06-28T16:40:51.072773+00:00
+[2022-06-28 18:40:19,685] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.496 seconds
+[2022-06-28 18:40:31,186] {processor.py:153} INFO - Started process (PID=21444) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:40:31,227] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:40:31,228] {logging_mixin.py:115} INFO - [2022-06-28 18:40:31,228] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:40:31,506] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:40:31,511] {logging_mixin.py:115} INFO - [2022-06-28 18:40:31,511] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:40:31,523] {logging_mixin.py:115} INFO - [2022-06-28 18:40:31,523] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:39:51.072773+00:00, run_after=2022-06-28T16:40:51.072773+00:00
+[2022-06-28 18:40:31,594] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.414 seconds
+[2022-06-28 18:40:41,559] {processor.py:153} INFO - Started process (PID=21453) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:40:41,560] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:40:41,561] {logging_mixin.py:115} INFO - [2022-06-28 18:40:41,561] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:40:41,862] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:40:41,873] {logging_mixin.py:115} INFO - [2022-06-28 18:40:41,873] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:40:41,883] {logging_mixin.py:115} INFO - [2022-06-28 18:40:41,883] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:39:51.072773+00:00, run_after=2022-06-28T16:40:51.072773+00:00
+[2022-06-28 18:40:41,907] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.352 seconds
+[2022-06-28 18:40:51,861] {processor.py:153} INFO - Started process (PID=21463) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:40:51,878] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:40:51,879] {logging_mixin.py:115} INFO - [2022-06-28 18:40:51,879] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:40:52,192] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:40:52,212] {logging_mixin.py:115} INFO - [2022-06-28 18:40:52,211] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:40:52,229] {logging_mixin.py:115} INFO - [2022-06-28 18:40:52,228] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:39:51.072773+00:00, run_after=2022-06-28T16:40:51.072773+00:00
+[2022-06-28 18:40:52,255] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.402 seconds
+[2022-06-28 18:41:06,817] {processor.py:153} INFO - Started process (PID=21509) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:41:06,858] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:41:06,859] {logging_mixin.py:115} INFO - [2022-06-28 18:41:06,859] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:41:07,177] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:41:07,187] {logging_mixin.py:115} INFO - [2022-06-28 18:41:07,187] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:41:07,198] {logging_mixin.py:115} INFO - [2022-06-28 18:41:07,198] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:40:51.072773+00:00, run_after=2022-06-28T16:41:51.072773+00:00
+[2022-06-28 18:41:07,267] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.456 seconds
+[2022-06-28 18:41:22,628] {processor.py:153} INFO - Started process (PID=21524) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:41:22,668] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:41:22,668] {logging_mixin.py:115} INFO - [2022-06-28 18:41:22,668] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:41:22,971] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:41:22,981] {logging_mixin.py:115} INFO - [2022-06-28 18:41:22,981] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:41:22,992] {logging_mixin.py:115} INFO - [2022-06-28 18:41:22,992] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:40:51.072773+00:00, run_after=2022-06-28T16:41:51.072773+00:00
+[2022-06-28 18:41:23,015] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.390 seconds
+[2022-06-28 18:41:36,040] {processor.py:153} INFO - Started process (PID=21537) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:41:36,081] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:41:36,083] {logging_mixin.py:115} INFO - [2022-06-28 18:41:36,082] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:41:36,385] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:41:36,398] {logging_mixin.py:115} INFO - [2022-06-28 18:41:36,398] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:41:36,415] {logging_mixin.py:115} INFO - [2022-06-28 18:41:36,414] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:40:51.072773+00:00, run_after=2022-06-28T16:41:51.072773+00:00
+[2022-06-28 18:41:36,494] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.459 seconds
+[2022-06-28 18:41:47,424] {processor.py:153} INFO - Started process (PID=21548) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:41:47,426] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:41:47,426] {logging_mixin.py:115} INFO - [2022-06-28 18:41:47,426] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:41:47,756] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:41:47,766] {logging_mixin.py:115} INFO - [2022-06-28 18:41:47,766] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:41:47,777] {logging_mixin.py:115} INFO - [2022-06-28 18:41:47,777] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:40:51.072773+00:00, run_after=2022-06-28T16:41:51.072773+00:00
+[2022-06-28 18:41:47,815] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.396 seconds
+[2022-06-28 18:42:02,204] {processor.py:153} INFO - Started process (PID=21593) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:42:02,216] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:42:02,217] {logging_mixin.py:115} INFO - [2022-06-28 18:42:02,217] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:42:02,520] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:42:02,530] {logging_mixin.py:115} INFO - [2022-06-28 18:42:02,530] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:42:02,540] {logging_mixin.py:115} INFO - [2022-06-28 18:42:02,540] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:41:51.072773+00:00, run_after=2022-06-28T16:42:51.072773+00:00
+[2022-06-28 18:42:02,562] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.364 seconds
+[2022-06-28 18:42:18,497] {processor.py:153} INFO - Started process (PID=21609) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:42:18,537] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:42:18,539] {logging_mixin.py:115} INFO - [2022-06-28 18:42:18,538] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:42:18,847] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:42:18,857] {logging_mixin.py:115} INFO - [2022-06-28 18:42:18,857] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:42:18,871] {logging_mixin.py:115} INFO - [2022-06-28 18:42:18,870] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:41:51.072773+00:00, run_after=2022-06-28T16:42:51.072773+00:00
+[2022-06-28 18:42:18,937] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.446 seconds
+[2022-06-28 18:42:32,437] {processor.py:153} INFO - Started process (PID=21622) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:42:32,438] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:42:32,439] {logging_mixin.py:115} INFO - [2022-06-28 18:42:32,439] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:42:32,737] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:42:32,746] {logging_mixin.py:115} INFO - [2022-06-28 18:42:32,746] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:42:32,757] {logging_mixin.py:115} INFO - [2022-06-28 18:42:32,757] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:41:51.072773+00:00, run_after=2022-06-28T16:42:51.072773+00:00
+[2022-06-28 18:42:32,779] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.348 seconds
+[2022-06-28 18:42:42,839] {processor.py:153} INFO - Started process (PID=21632) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:42:42,880] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:42:42,882] {logging_mixin.py:115} INFO - [2022-06-28 18:42:42,881] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:42:43,172] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:42:43,181] {logging_mixin.py:115} INFO - [2022-06-28 18:42:43,181] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:42:43,192] {logging_mixin.py:115} INFO - [2022-06-28 18:42:43,192] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:41:51.072773+00:00, run_after=2022-06-28T16:42:51.072773+00:00
+[2022-06-28 18:42:43,213] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.381 seconds
+[2022-06-28 18:42:57,609] {processor.py:153} INFO - Started process (PID=21678) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:42:57,613] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:42:57,614] {logging_mixin.py:115} INFO - [2022-06-28 18:42:57,613] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:42:57,902] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:42:57,913] {logging_mixin.py:115} INFO - [2022-06-28 18:42:57,913] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:42:57,930] {logging_mixin.py:115} INFO - [2022-06-28 18:42:57,930] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:42:51.072773+00:00, run_after=2022-06-28T16:43:51.072773+00:00
+[2022-06-28 18:42:57,962] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.358 seconds
+[2022-06-28 18:43:11,980] {processor.py:153} INFO - Started process (PID=21692) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:43:11,981] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:43:11,982] {logging_mixin.py:115} INFO - [2022-06-28 18:43:11,982] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:43:12,451] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:43:12,466] {logging_mixin.py:115} INFO - [2022-06-28 18:43:12,466] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:43:12,481] {logging_mixin.py:115} INFO - [2022-06-28 18:43:12,481] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:42:51.072773+00:00, run_after=2022-06-28T16:43:51.072773+00:00
+[2022-06-28 18:43:12,504] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.528 seconds
+[2022-06-28 18:43:26,492] {processor.py:153} INFO - Started process (PID=21706) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:43:26,494] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:43:26,495] {logging_mixin.py:115} INFO - [2022-06-28 18:43:26,495] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:43:26,823] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:43:26,832] {logging_mixin.py:115} INFO - [2022-06-28 18:43:26,832] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:43:26,844] {logging_mixin.py:115} INFO - [2022-06-28 18:43:26,844] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:42:51.072773+00:00, run_after=2022-06-28T16:43:51.072773+00:00
+[2022-06-28 18:43:26,912] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.427 seconds
+[2022-06-28 18:43:37,272] {processor.py:153} INFO - Started process (PID=21716) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:43:37,273] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:43:37,274] {logging_mixin.py:115} INFO - [2022-06-28 18:43:37,274] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:43:37,574] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:43:37,598] {logging_mixin.py:115} INFO - [2022-06-28 18:43:37,598] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:43:37,619] {logging_mixin.py:115} INFO - [2022-06-28 18:43:37,619] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:42:51.072773+00:00, run_after=2022-06-28T16:43:51.072773+00:00
+[2022-06-28 18:43:37,685] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.417 seconds
+[2022-06-28 18:43:48,211] {processor.py:153} INFO - Started process (PID=21727) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:43:48,212] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:43:48,213] {logging_mixin.py:115} INFO - [2022-06-28 18:43:48,213] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:43:48,514] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:43:48,524] {logging_mixin.py:115} INFO - [2022-06-28 18:43:48,524] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:43:48,535] {logging_mixin.py:115} INFO - [2022-06-28 18:43:48,535] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:42:51.072773+00:00, run_after=2022-06-28T16:43:51.072773+00:00
+[2022-06-28 18:43:48,556] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.351 seconds
+[2022-06-28 18:44:02,358] {processor.py:153} INFO - Started process (PID=21774) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:44:02,384] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 18:44:02,385] {logging_mixin.py:115} INFO - [2022-06-28 18:44:02,385] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:44:02,701] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 18:44:02,713] {logging_mixin.py:115} INFO - [2022-06-28 18:44:02,713] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 18:44:02,734] {logging_mixin.py:115} INFO - [2022-06-28 18:44:02,734] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:43:51.072773+00:00, run_after=2022-06-28T16:44:51.072773+00:00
+[2022-06-28 18:44:02,761] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.405 seconds
+[2022-06-28 23:32:01,694] {processor.py:153} INFO - Started process (PID=25273) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 23:32:01,703] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 23:32:01,709] {logging_mixin.py:115} INFO - [2022-06-28 23:32:01,708] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 23:32:03,867] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 23:32:04,040] {logging_mixin.py:115} INFO - [2022-06-28 23:32:04,039] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 23:32:04,079] {logging_mixin.py:115} INFO - [2022-06-28 23:32:04,078] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:43:51.072773+00:00, run_after=2022-06-28T16:44:51.072773+00:00
+[2022-06-28 23:32:04,124] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 2.465 seconds
+[2022-06-28 23:36:53,711] {processor.py:153} INFO - Started process (PID=25581) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 23:36:53,712] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 23:36:53,712] {logging_mixin.py:115} INFO - [2022-06-28 23:36:53,712] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 23:36:54,181] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 23:36:54,247] {logging_mixin.py:115} INFO - [2022-06-28 23:36:54,247] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 23:36:54,259] {logging_mixin.py:115} INFO - [2022-06-28 23:36:54,259] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T16:56:51.072773+00:00, run_after=2022-06-28T16:57:51.072773+00:00
+[2022-06-28 23:36:54,326] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.620 seconds
+[2022-06-28 23:42:37,331] {processor.py:153} INFO - Started process (PID=26016) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 23:42:37,339] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 23:42:37,340] {logging_mixin.py:115} INFO - [2022-06-28 23:42:37,339] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 23:42:38,102] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 23:42:38,201] {logging_mixin.py:115} INFO - [2022-06-28 23:42:38,201] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 23:42:38,239] {logging_mixin.py:115} INFO - [2022-06-28 23:42:38,238] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T17:12:51.072773+00:00, run_after=2022-06-28T17:13:51.072773+00:00
+[2022-06-28 23:42:38,275] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.948 seconds
+[2022-06-28 23:48:27,789] {processor.py:153} INFO - Started process (PID=31062) to work on /root/airflow/dags/CarPriceDag.py
+[2022-06-28 23:48:27,790] {processor.py:641} INFO - Processing file /root/airflow/dags/CarPriceDag.py for tasks to queue
+[2022-06-28 23:48:27,790] {logging_mixin.py:115} INFO - [2022-06-28 23:48:27,790] {dagbag.py:507} INFO - Filling up the DagBag from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 23:48:28,091] {processor.py:651} INFO - DAG(s) dict_keys(['ingest_data']) retrieved from /root/airflow/dags/CarPriceDag.py
+[2022-06-28 23:48:28,120] {logging_mixin.py:115} INFO - [2022-06-28 23:48:28,119] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-06-28 23:48:28,129] {logging_mixin.py:115} INFO - [2022-06-28 23:48:28,129] {dag.py:2915} INFO - Setting next_dagrun for ingest_data to 2022-06-28T17:19:51.072773+00:00, run_after=2022-06-28T17:20:51.072773+00:00
+[2022-06-28 23:48:28,156] {processor.py:161} INFO - Processing /root/airflow/dags/CarPriceDag.py took 0.371 seconds

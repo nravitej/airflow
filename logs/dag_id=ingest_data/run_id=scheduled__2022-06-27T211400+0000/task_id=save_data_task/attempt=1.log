@@ -1,0 +1,34 @@
+[2022-06-28 18:14:10,281] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: ingest_data.save_data_task scheduled__2022-06-27T21:14:00+00:00 [queued]>
+[2022-06-28 18:14:10,286] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: ingest_data.save_data_task scheduled__2022-06-27T21:14:00+00:00 [queued]>
+[2022-06-28 18:14:10,286] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-28 18:14:10,286] {taskinstance.py:1357} INFO - Starting attempt 1 of 1
+[2022-06-28 18:14:10,286] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-28 18:14:10,309] {taskinstance.py:1377} INFO - Executing <Task(_PythonDecoratedOperator): save_data_task> on 2022-06-27 21:14:00+00:00
+[2022-06-28 18:14:10,313] {standard_task_runner.py:52} INFO - Started process 12549 to run task
+[2022-06-28 18:14:10,316] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'ingest_data', 'save_data_task', 'scheduled__2022-06-27T21:14:00+00:00', '--job-id', '74', '--raw', '--subdir', 'DAGS_FOLDER/CarPriceDag.py', '--cfg-path', '/tmp/tmpvg_2vswt', '--error-file', '/tmp/tmpaowyjrs1']
+[2022-06-28 18:14:10,316] {standard_task_runner.py:80} INFO - Job 74: Subtask save_data_task
+[2022-06-28 18:14:10,380] {task_command.py:369} INFO - Running <TaskInstance: ingest_data.save_data_task scheduled__2022-06-27T21:14:00+00:00 [running]> on host DESKTOP-9B44JSS.localdomain
+[2022-06-28 18:14:10,475] {taskinstance.py:1569} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=ingest_data
+AIRFLOW_CTX_TASK_ID=save_data_task
+AIRFLOW_CTX_EXECUTION_DATE=2022-06-27T21:14:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-06-27T21:14:00+00:00
+[2022-06-28 18:14:10,477] {taskinstance.py:1889} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/root/airflow_env/lib/python3.8/site-packages/airflow/decorators/base.py", line 179, in execute
+    return_value = super().execute(context)
+  File "/root/airflow_env/lib/python3.8/site-packages/airflow/operators/python.py", line 171, in execute
+    return_value = self.execute_callable()
+  File "/root/airflow_env/lib/python3.8/site-packages/airflow/operators/python.py", line 189, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/root/airflow/dags/CarPriceDag.py", line 35, in save_data_task
+    process(data_to_ingest_df)
+TypeError: process() missing 1 required positional argument: 'server_url'
+[2022-06-28 18:14:10,482] {taskinstance.py:1395} INFO - Marking task as FAILED. dag_id=ingest_data, task_id=save_data_task, execution_date=20220627T211400, start_date=20220628T161410, end_date=20220628T161410
+[2022-06-28 18:14:10,504] {standard_task_runner.py:92} ERROR - Failed to execute job 74 for task save_data_task (process() missing 1 required positional argument: 'server_url'; 12549)
+[2022-06-28 18:14:10,530] {local_task_job.py:156} INFO - Task exited with return code 1
+[2022-06-28 18:14:10,569] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

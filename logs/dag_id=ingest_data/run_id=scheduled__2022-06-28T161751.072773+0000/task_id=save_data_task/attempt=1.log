@@ -1,0 +1,51 @@
+[2022-06-28 18:19:52,778] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: ingest_data.save_data_task scheduled__2022-06-28T16:17:51.072773+00:00 [queued]>
+[2022-06-28 18:19:52,784] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: ingest_data.save_data_task scheduled__2022-06-28T16:17:51.072773+00:00 [queued]>
+[2022-06-28 18:19:52,784] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-28 18:19:52,784] {taskinstance.py:1357} INFO - Starting attempt 1 of 1
+[2022-06-28 18:19:52,784] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-28 18:19:52,812] {taskinstance.py:1377} INFO - Executing <Task(_PythonDecoratedOperator): save_data_task> on 2022-06-28 16:17:51.072773+00:00
+[2022-06-28 18:19:52,816] {standard_task_runner.py:52} INFO - Started process 14828 to run task
+[2022-06-28 18:19:52,821] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'ingest_data', 'save_data_task', 'scheduled__2022-06-28T16:17:51.072773+00:00', '--job-id', '130', '--raw', '--subdir', 'DAGS_FOLDER/CarPriceDag.py', '--cfg-path', '/tmp/tmp8i26ject', '--error-file', '/tmp/tmp0k0fyyxq']
+[2022-06-28 18:19:52,822] {standard_task_runner.py:80} INFO - Job 130: Subtask save_data_task
+[2022-06-28 18:19:52,892] {task_command.py:369} INFO - Running <TaskInstance: ingest_data.save_data_task scheduled__2022-06-28T16:17:51.072773+00:00 [running]> on host DESKTOP-9B44JSS.localdomain
+[2022-06-28 18:19:53,028] {taskinstance.py:1569} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=ingest_data
+AIRFLOW_CTX_TASK_ID=save_data_task
+AIRFLOW_CTX_EXECUTION_DATE=2022-06-28T16:17:51.072773+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-06-28T16:17:51.072773+00:00
+[2022-06-28 18:19:53,235] {taskinstance.py:1889} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/root/airflow_env/lib/python3.8/site-packages/requests/models.py", line 910, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "/usr/lib/python3.8/json/__init__.py", line 357, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.8/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.8/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/root/airflow_env/lib/python3.8/site-packages/airflow/decorators/base.py", line 179, in execute
+    return_value = super().execute(context)
+  File "/root/airflow_env/lib/python3.8/site-packages/airflow/operators/python.py", line 171, in execute
+    return_value = self.execute_callable()
+  File "/root/airflow_env/lib/python3.8/site-packages/airflow/operators/python.py", line 189, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/root/airflow/dags/CarPriceDag.py", line 35, in save_data_task
+    process(data_to_ingest_df,url)
+  File "/root/airflow/dags/CarPriceDag.py", line 64, in process
+    tab=pd.read_json(r.json())
+  File "/root/airflow_env/lib/python3.8/site-packages/requests/models.py", line 917, in json
+    raise RequestsJSONDecodeError(e.msg, e.doc, e.pos)
+requests.exceptions.JSONDecodeError: [Errno Expecting value] Internal Server Error: 0
+[2022-06-28 18:19:53,243] {taskinstance.py:1395} INFO - Marking task as FAILED. dag_id=ingest_data, task_id=save_data_task, execution_date=20220628T161751, start_date=20220628T161952, end_date=20220628T161953
+[2022-06-28 18:19:53,271] {standard_task_runner.py:92} ERROR - Failed to execute job 130 for task save_data_task ([Errno Expecting value] Internal Server Error: 0; 14828)
+[2022-06-28 18:19:53,278] {local_task_job.py:156} INFO - Task exited with return code 1
+[2022-06-28 18:19:53,321] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

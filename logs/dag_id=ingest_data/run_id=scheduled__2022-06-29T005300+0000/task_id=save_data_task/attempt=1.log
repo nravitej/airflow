@@ -1,0 +1,18 @@
+[2022-06-29 21:20:19,972] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: ingest_data.save_data_task scheduled__2022-06-29T00:53:00+00:00 [queued]>
+[2022-06-29 21:20:19,978] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: ingest_data.save_data_task scheduled__2022-06-29T00:53:00+00:00 [queued]>
+[2022-06-29 21:20:19,978] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-29 21:20:19,978] {taskinstance.py:1357} INFO - Starting attempt 1 of 1
+[2022-06-29 21:20:19,978] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-29 21:20:20,004] {taskinstance.py:1377} INFO - Executing <Task(_PythonDecoratedOperator): save_data_task> on 2022-06-29 00:53:00+00:00
+[2022-06-29 21:20:20,010] {standard_task_runner.py:52} INFO - Started process 11239 to run task
+[2022-06-29 21:20:20,016] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'ingest_data', 'save_data_task', 'scheduled__2022-06-29T00:53:00+00:00', '--job-id', '725', '--raw', '--subdir', 'DAGS_FOLDER/CarPriceDag.py', '--cfg-path', '/tmp/tmpueisgags', '--error-file', '/tmp/tmp9o16h8zp']
+[2022-06-29 21:20:20,018] {standard_task_runner.py:80} INFO - Job 725: Subtask save_data_task
+[2022-06-29 21:20:20,102] {task_command.py:369} INFO - Running <TaskInstance: ingest_data.save_data_task scheduled__2022-06-29T00:53:00+00:00 [running]> on host DESKTOP-9B44JSS.localdomain
+[2022-06-29 21:20:20,111] {process_utils.py:125} INFO - Sending Signals.SIGTERM to group 11239. PIDs of all processes in the group: [11239]
+[2022-06-29 21:20:20,112] {process_utils.py:80} INFO - Sending the signal Signals.SIGTERM to group 11239
+[2022-06-29 21:20:20,119] {process_utils.py:75} INFO - Process psutil.Process(pid=11239, status='terminated', exitcode=<Negsignal.SIGTERM: -15>, started='21:20:19') (11239) terminated with exit code Negsignal.SIGTERM
+[2022-06-29 21:20:24,137] {taskinstance.py:1149} INFO - Dependencies not met for <TaskInstance: ingest_data.save_data_task scheduled__2022-06-29T00:53:00+00:00 [running]>, dependency 'Task Instance State' FAILED: Task is in the 'running' state.
+[2022-06-29 21:20:24,138] {taskinstance.py:1149} INFO - Dependencies not met for <TaskInstance: ingest_data.save_data_task scheduled__2022-06-29T00:53:00+00:00 [running]>, dependency 'Task Instance Not Running' FAILED: Task is in the running state
+[2022-06-29 21:20:24,138] {local_task_job.py:101} INFO - Task is not able to be run

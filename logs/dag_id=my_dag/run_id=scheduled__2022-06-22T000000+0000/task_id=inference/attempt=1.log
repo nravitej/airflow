@@ -1,0 +1,51 @@
+[2022-06-23 10:01:54,904] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: my_dag.inference scheduled__2022-06-22T00:00:00+00:00 [queued]>
+[2022-06-23 10:01:54,946] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: my_dag.inference scheduled__2022-06-22T00:00:00+00:00 [queued]>
+[2022-06-23 10:01:54,947] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-23 10:01:54,947] {taskinstance.py:1357} INFO - Starting attempt 1 of 1
+[2022-06-23 10:01:54,947] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-23 10:01:55,060] {taskinstance.py:1377} INFO - Executing <Task(BashOperator): inference> on 2022-06-22 00:00:00+00:00
+[2022-06-23 10:01:55,077] {standard_task_runner.py:52} INFO - Started process 14389 to run task
+[2022-06-23 10:01:55,082] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'my_dag', 'inference', 'scheduled__2022-06-22T00:00:00+00:00', '--job-id', '34', '--raw', '--subdir', 'DAGS_FOLDER/CarPriceDag.py', '--cfg-path', '/tmp/tmp91pwm0ey', '--error-file', '/tmp/tmpiiu_pdtl']
+[2022-06-23 10:01:55,082] {standard_task_runner.py:80} INFO - Job 34: Subtask inference
+[2022-06-23 10:01:55,224] {task_command.py:369} INFO - Running <TaskInstance: my_dag.inference scheduled__2022-06-22T00:00:00+00:00 [running]> on host DESKTOP-9B44JSS.localdomain
+[2022-06-23 10:01:55,475] {taskinstance.py:1569} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=my_dag
+AIRFLOW_CTX_TASK_ID=inference
+AIRFLOW_CTX_EXECUTION_DATE=2022-06-22T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-06-22T00:00:00+00:00
+[2022-06-23 10:01:55,476] {subprocess.py:62} INFO - Tmp dir root location: 
+ /tmp
+[2022-06-23 10:01:55,477] {subprocess.py:74} INFO - Running command: ['bash', '-c', 'python ~/airflow/dags/src/postprediction.py']
+[2022-06-23 10:01:55,489] {subprocess.py:85} INFO - Output:
+[2022-06-23 10:01:56,276] {subprocess.py:92} INFO - Traceback (most recent call last):
+[2022-06-23 10:01:56,277] {subprocess.py:92} INFO -   File "/root/airflow/dags/src/postprediction.py", line 29, in <module>
+[2022-06-23 10:01:56,277] {subprocess.py:92} INFO -     fetchdata()
+[2022-06-23 10:01:56,277] {subprocess.py:92} INFO -   File "/root/airflow/dags/src/postprediction.py", line 22, in fetchdata
+[2022-06-23 10:01:56,277] {subprocess.py:92} INFO -     bulk=pd.read_csv("true_car_listings.csv")
+[2022-06-23 10:01:56,277] {subprocess.py:92} INFO -   File "/root/airflow_env/lib/python3.8/site-packages/pandas/util/_decorators.py", line 311, in wrapper
+[2022-06-23 10:01:56,277] {subprocess.py:92} INFO -     return func(*args, **kwargs)
+[2022-06-23 10:01:56,277] {subprocess.py:92} INFO -   File "/root/airflow_env/lib/python3.8/site-packages/pandas/io/parsers/readers.py", line 680, in read_csv
+[2022-06-23 10:01:56,277] {subprocess.py:92} INFO -     return _read(filepath_or_buffer, kwds)
+[2022-06-23 10:01:56,277] {subprocess.py:92} INFO -   File "/root/airflow_env/lib/python3.8/site-packages/pandas/io/parsers/readers.py", line 575, in _read
+[2022-06-23 10:01:56,277] {subprocess.py:92} INFO -     parser = TextFileReader(filepath_or_buffer, **kwds)
+[2022-06-23 10:01:56,277] {subprocess.py:92} INFO -   File "/root/airflow_env/lib/python3.8/site-packages/pandas/io/parsers/readers.py", line 933, in __init__
+[2022-06-23 10:01:56,277] {subprocess.py:92} INFO -     self._engine = self._make_engine(f, self.engine)
+[2022-06-23 10:01:56,277] {subprocess.py:92} INFO -   File "/root/airflow_env/lib/python3.8/site-packages/pandas/io/parsers/readers.py", line 1217, in _make_engine
+[2022-06-23 10:01:56,277] {subprocess.py:92} INFO -     self.handles = get_handle(  # type: ignore[call-overload]
+[2022-06-23 10:01:56,277] {subprocess.py:92} INFO -   File "/root/airflow_env/lib/python3.8/site-packages/pandas/io/common.py", line 789, in get_handle
+[2022-06-23 10:01:56,277] {subprocess.py:92} INFO -     handle = open(
+[2022-06-23 10:01:56,277] {subprocess.py:92} INFO - FileNotFoundError: [Errno 2] No such file or directory: 'true_car_listings.csv'
+[2022-06-23 10:01:56,381] {subprocess.py:96} INFO - Command exited with return code 1
+[2022-06-23 10:01:56,392] {taskinstance.py:1889} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/root/airflow_env/lib/python3.8/site-packages/airflow/operators/bash.py", line 194, in execute
+    raise AirflowException(
+airflow.exceptions.AirflowException: Bash command failed. The command returned a non-zero exit code 1.
+[2022-06-23 10:01:56,396] {taskinstance.py:1395} INFO - Marking task as FAILED. dag_id=my_dag, task_id=inference, execution_date=20220622T000000, start_date=20220623T080154, end_date=20220623T080156
+[2022-06-23 10:01:56,419] {standard_task_runner.py:92} ERROR - Failed to execute job 34 for task inference (Bash command failed. The command returned a non-zero exit code 1.; 14389)
+[2022-06-23 10:01:56,463] {local_task_job.py:156} INFO - Task exited with return code 1
+[2022-06-23 10:01:56,492] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

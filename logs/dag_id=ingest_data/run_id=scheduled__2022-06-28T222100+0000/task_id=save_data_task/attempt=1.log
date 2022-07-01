@@ -1,0 +1,93 @@
+[2022-06-29 20:18:47,198] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: ingest_data.save_data_task scheduled__2022-06-28T22:21:00+00:00 [queued]>
+[2022-06-29 20:18:47,206] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: ingest_data.save_data_task scheduled__2022-06-28T22:21:00+00:00 [queued]>
+[2022-06-29 20:18:47,207] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-29 20:18:47,207] {taskinstance.py:1357} INFO - Starting attempt 1 of 1
+[2022-06-29 20:18:47,207] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-29 20:18:47,236] {taskinstance.py:1377} INFO - Executing <Task(_PythonDecoratedOperator): save_data_task> on 2022-06-28 22:21:00+00:00
+[2022-06-29 20:18:47,242] {standard_task_runner.py:52} INFO - Started process 5213 to run task
+[2022-06-29 20:18:47,248] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'ingest_data', 'save_data_task', 'scheduled__2022-06-28T22:21:00+00:00', '--job-id', '416', '--raw', '--subdir', 'DAGS_FOLDER/CarPriceDag.py', '--cfg-path', '/tmp/tmpb6djei5c', '--error-file', '/tmp/tmp93zi4r64']
+[2022-06-29 20:18:47,249] {standard_task_runner.py:80} INFO - Job 416: Subtask save_data_task
+[2022-06-29 20:18:47,321] {task_command.py:369} INFO - Running <TaskInstance: ingest_data.save_data_task scheduled__2022-06-28T22:21:00+00:00 [running]> on host DESKTOP-9B44JSS.localdomain
+[2022-06-29 20:18:47,432] {taskinstance.py:1569} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=ingest_data
+AIRFLOW_CTX_TASK_ID=save_data_task
+AIRFLOW_CTX_EXECUTION_DATE=2022-06-28T22:21:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-06-28T22:21:00+00:00
+[2022-06-29 20:18:47,439] {taskinstance.py:1889} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/root/airflow_env/lib/python3.8/site-packages/urllib3/connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+  File "/root/airflow_env/lib/python3.8/site-packages/urllib3/util/connection.py", line 95, in create_connection
+    raise err
+  File "/root/airflow_env/lib/python3.8/site-packages/urllib3/util/connection.py", line 85, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/root/airflow_env/lib/python3.8/site-packages/urllib3/connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "/root/airflow_env/lib/python3.8/site-packages/urllib3/connectionpool.py", line 398, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/root/airflow_env/lib/python3.8/site-packages/urllib3/connection.py", line 239, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "/usr/lib/python3.8/http/client.py", line 1256, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/usr/lib/python3.8/http/client.py", line 1302, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.8/http/client.py", line 1251, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.8/http/client.py", line 1011, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.8/http/client.py", line 951, in send
+    self.connect()
+  File "/root/airflow_env/lib/python3.8/site-packages/urllib3/connection.py", line 205, in connect
+    conn = self._new_conn()
+  File "/root/airflow_env/lib/python3.8/site-packages/urllib3/connection.py", line 186, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7f661e860bb0>: Failed to establish a new connection: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/root/airflow_env/lib/python3.8/site-packages/requests/adapters.py", line 440, in send
+    resp = conn.urlopen(
+  File "/root/airflow_env/lib/python3.8/site-packages/urllib3/connectionpool.py", line 785, in urlopen
+    retries = retries.increment(
+  File "/root/airflow_env/lib/python3.8/site-packages/urllib3/util/retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /prediction/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f661e860bb0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/root/airflow_env/lib/python3.8/site-packages/airflow/decorators/base.py", line 179, in execute
+    return_value = super().execute(context)
+  File "/root/airflow_env/lib/python3.8/site-packages/airflow/operators/python.py", line 171, in execute
+    return_value = self.execute_callable()
+  File "/root/airflow_env/lib/python3.8/site-packages/airflow/operators/python.py", line 189, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/root/airflow/dags/CarPriceDag.py", line 35, in save_data_task
+    process(data_to_ingest_df,url)
+  File "/root/airflow/dags/CarPriceDag.py", line 59, in process
+    r = requests.post(
+  File "/root/airflow_env/lib/python3.8/site-packages/requests/api.py", line 117, in post
+    return request('post', url, data=data, json=json, **kwargs)
+  File "/root/airflow_env/lib/python3.8/site-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/root/airflow_env/lib/python3.8/site-packages/requests/sessions.py", line 529, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/root/airflow_env/lib/python3.8/site-packages/requests/sessions.py", line 645, in send
+    r = adapter.send(request, **kwargs)
+  File "/root/airflow_env/lib/python3.8/site-packages/requests/adapters.py", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /prediction/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f661e860bb0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+[2022-06-29 20:18:47,449] {taskinstance.py:1395} INFO - Marking task as FAILED. dag_id=ingest_data, task_id=save_data_task, execution_date=20220628T222100, start_date=20220629T181847, end_date=20220629T181847
+[2022-06-29 20:18:47,476] {standard_task_runner.py:92} ERROR - Failed to execute job 416 for task save_data_task (HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /prediction/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f661e860bb0>: Failed to establish a new connection: [Errno 111] Connection refused')); 5213)
+[2022-06-29 20:18:47,503] {local_task_job.py:156} INFO - Task exited with return code 1
+[2022-06-29 20:18:47,573] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

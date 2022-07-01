@@ -1,0 +1,18 @@
+[2022-06-29 20:32:34,704] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: ingest_data.get_data_to_ingest_from_local_file_task scheduled__2022-06-29T00:45:00+00:00 [queued]>
+[2022-06-29 20:32:34,715] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: ingest_data.get_data_to_ingest_from_local_file_task scheduled__2022-06-29T00:45:00+00:00 [queued]>
+[2022-06-29 20:32:34,715] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-29 20:32:34,715] {taskinstance.py:1357} INFO - Starting attempt 1 of 1
+[2022-06-29 20:32:34,715] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-29 20:32:34,748] {taskinstance.py:1377} INFO - Executing <Task(_PythonDecoratedOperator): get_data_to_ingest_from_local_file_task> on 2022-06-29 00:45:00+00:00
+[2022-06-29 20:32:34,756] {standard_task_runner.py:52} INFO - Started process 10607 to run task
+[2022-06-29 20:32:34,762] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'ingest_data', 'get_data_to_ingest_from_local_file_task', 'scheduled__2022-06-29T00:45:00+00:00', '--job-id', '702', '--raw', '--subdir', 'DAGS_FOLDER/CarPriceDag.py', '--cfg-path', '/tmp/tmp0bnqw_58', '--error-file', '/tmp/tmp0_n9d7xs']
+[2022-06-29 20:32:34,763] {standard_task_runner.py:80} INFO - Job 702: Subtask get_data_to_ingest_from_local_file_task
+[2022-06-29 20:32:34,827] {task_command.py:369} INFO - Running <TaskInstance: ingest_data.get_data_to_ingest_from_local_file_task scheduled__2022-06-29T00:45:00+00:00 [running]> on host DESKTOP-9B44JSS.localdomain
+[2022-06-29 20:32:34,849] {process_utils.py:125} INFO - Sending Signals.SIGTERM to group 10607. PIDs of all processes in the group: [10607]
+[2022-06-29 20:32:34,849] {process_utils.py:80} INFO - Sending the signal Signals.SIGTERM to group 10607
+[2022-06-29 20:32:34,857] {process_utils.py:75} INFO - Process psutil.Process(pid=10607, status='terminated', exitcode=<Negsignal.SIGTERM: -15>, started='20:32:34') (10607) terminated with exit code Negsignal.SIGTERM
+[2022-06-29 20:32:37,377] {taskinstance.py:1149} INFO - Dependencies not met for <TaskInstance: ingest_data.get_data_to_ingest_from_local_file_task scheduled__2022-06-29T00:45:00+00:00 [running]>, dependency 'Task Instance Not Running' FAILED: Task is in the running state
+[2022-06-29 20:32:37,377] {taskinstance.py:1149} INFO - Dependencies not met for <TaskInstance: ingest_data.get_data_to_ingest_from_local_file_task scheduled__2022-06-29T00:45:00+00:00 [running]>, dependency 'Task Instance State' FAILED: Task is in the 'running' state.
+[2022-06-29 20:32:37,384] {local_task_job.py:101} INFO - Task is not able to be run

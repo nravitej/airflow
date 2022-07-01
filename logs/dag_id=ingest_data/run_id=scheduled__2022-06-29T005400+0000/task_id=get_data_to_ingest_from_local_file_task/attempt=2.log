@@ -1,0 +1,2 @@
+[2022-06-29 21:20:22,470] {taskinstance.py:1149} INFO - Dependencies not met for <TaskInstance: ingest_data.get_data_to_ingest_from_local_file_task scheduled__2022-06-29T00:54:00+00:00 [success]>, dependency 'Task Instance State' FAILED: Task is in the 'success' state.
+[2022-06-29 21:20:22,470] {local_task_job.py:101} INFO - Task is not able to be run
